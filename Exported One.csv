@@ -1,0 +1,44 @@
+﻿Transaction ID,Posting Date,Effective Date,Transaction Type,Amount,Check Number,Reference Number,Description,Transaction Category,Type,Balance,Memo,Extended Description
+,9/28/2023,,Debit,-18.02,,65798760,Wendy's,Restaurants & Dining,Debit Card,204.65,,POS Card purchase WENDY'S 8028 5814 565 WALTON BLVD LAS CRUCES NM
+,9/28/2023,,Debit,-3.19,,65788798,Supercell,Entertainment,Debit Card,222.67,,Debit Card purchase GOOGLE *SUPERCELL 5818 G.CO/HELPPAY# CA
+,9/28/2023,,Debit,-10.65,,65788797,Supercell,Entertainment,Debit Card,225.86,,Debit Card purchase GOOGLE *SUPERCELL 5818 G.CO/HELPPAY# CA
+,9/28/2023,,Debit,-5.32,,65788796,Supercell,Entertainment,Debit Card,236.51,,Debit Card purchase GOOGLE *SUPERCELL 5818 G.CO/HELPPAY# CA
+,9/28/2023,,Debit,-19.35,,65788795,McDonald's,Restaurants & Dining,Debit Card,241.83,,Debit Card purchase MCDONALD'S F20533 5814 LAS CRUCES NM
+,9/27/2023,,Debit,-18.89,,65735588,Raising Cane's,Restaurants & Dining,Debit Card,261.18,,Debit Card purchase RAISING CANES 0340 5814 LAS CRUCES NM
+,9/27/2023,,Debit,-5.63,,65735587,Einstein Bros. Bagels,Restaurants & Dining,Debit Card,280.07,,Debit Card purchase EINSTEINS CCSU 5814 LAS CRUCES NM
+,9/25/2023,,Debit,-20.13,,65662338,Whataburger,Restaurants & Dining,Debit Card,285.7,,Debit Card purchase WHATABURGER 465 5814 LAS CRUCES NM
+,9/25/2023,,Debit,-12.82,,65662339,ACH Withdrawal COMPANY: CRUNCH FIT ENTRY: CLUB FEES XX-8030 ISAIAH MALCON,Personal Care & Fitness,,305.83,,ACH Withdrawal COMPANY: CRUNCH FIT ENTRY: CLUB FEES 505-387-8030 ISAIAH MALCON
+,9/23/2023,,Credit,300,,65538635,Transfer from Zelle,Transfers,,318.65,,Shared branch Deposit ZELLE 6532
+,9/23/2023,,Debit,-8.43,,65538634,Starbucks,Restaurants & Dining,Debit Card,18.65,,Debit Card purchase STARBUCKS STORE 11645 5814 LAS CRUCES NM
+,9/22/2023,,Debit,-29.21,,65505096,Supercuts,Personal Care & Fitness,Debit Card,27.08,,Debit Card purchase SUPERCUTS 7298 LAS CRUCES NM
+,9/22/2023,,Debit,-53.05,,65486285,Walmart,Shopping,Debit Card,56.29,,POS Card purchase WAL-MART SUPER CENTER 5411 0806 WAL-SAMS LAS CRUCES NM
+,9/22/2023,,Debit,-100,,65484887,Online banking Withdrawal Transfer to LXX00 - Credit Card,Credit Card Payments,Transfer,109.34,,Online banking Withdrawal Transfer to L0100 - Credit Card Payment
+,9/22/2023,,Debit,-300,,65484856,Transfer to Zelle,Transfers,,209.34,,Shared branch Withdrawal ZELLE 6532
+,9/22/2023,,Debit,-16.47,,65480601,Raising Cane's,Restaurants & Dining,Debit Card,509.34,,Debit Card purchase RAISING CANES 0340 5814 LAS CRUCES NM
+,9/21/2023,,Credit,147.38,,65443295,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY,Transfers,,525.81,,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY
+,9/19/2023,,Debit,-30,,65308247,Abc Fitness Service Charges/Fees,Service Charges & Fees,Fees,378.43,,Fee Withdrawal COMPANY: ABC FITNESS ENTRY: CLUBCHARGE E091623A ISAIAH MALCON - NSF Fee
+,9/18/2023,,Debit,-21.6,,65250056,Adobe Creative Cloud,Online Services,,408.43,,Bill payment Withdrawal ADOBE *CREATIVE CLOUD 5734 408-536-6000 CA
+,9/18/2023,,Debit,-10.82,,65250055,Planet Fitness,Personal Care & Fitness,,430.03,,ACH Withdrawal COMPANY: PLANET FIT ENTRY: CLUB FEES 575-522-7867 ISAIAH MALCOM
+,9/17/2023,,Debit,-11.99,,65250054,HOSTINGER* HOSTINGER.C 7372 KAUNAS LT,Online Services,Debit Card,440.85,,Debit Card purchase HOSTINGER* HOSTINGER.C 7372 KAUNAS LT
+,9/15/2023,,Debit,-27.7,,65114267,Village Inn,Restaurants & Dining,Debit Card,452.84,,Debit Card purchase VILLAGE INN PANCAKE HO 5812 LAS CRUCES NM
+,9/15/2023,,Debit,-14.04,,65114266,Village Inn,Restaurants & Dining,Debit Card,480.54,,Debit Card purchase VILLAGE INN PANCAKE HO 5812 LAS CRUCES NM
+,9/15/2023,,Debit,-5.75,,65106274,Aggie Car Wash,Automotive Expenses,Debit Card,494.58,,Debit Card purchase AGGIE CARWASH 7542 LAS CRUCES NM
+,9/15/2023,,Debit,-5.86,,65106273,YouTube Music,Entertainment,Debit Card,500.33,,Debit Card purchase GOOGLE *YOUTUBE MUSIC 5815 G.CO/HELPPAY# CA
+,9/14/2023,,Credit,388.81,,65067422,ATM Deposit CU ANYTIME XX 1715 EAST UNIVERSITY LAS CRUCES NM,Deposits,,506.19,,ATM Deposit CU ANYTIME 6011 1715 EAST UNIVERSITY LAS CRUCES NM
+,9/14/2023,,Credit,147.38,,65042621,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY,Transfers,,117.38,,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY
+,9/14/2023,,Debit,-30,,65042620,Abc Fitness Service Charges/Fees,Service Charges & Fees,Fees,-30,,Fee Withdrawal COMPANY: ABC FITNESS ENTRY: CLUBCHARGE E091323A ISAIAH MALCON - NSF Fee
+,9/12/2023,,Debit,-13.39,,65003867,Blake's Lotaburger,Restaurants & Dining,Debit Card,0,,Debit Card purchase BLAKE S LOTABURGER - 028 5814 LAS CRUCES NM
+,9/12/2023,,Debit,-49.99,,65003866,Payment to Comcast,Cable & Satellite,,13.39,,Bill payment Withdrawal COMCAST CABLE COMM 4899 800-COMCAST CO
+,9/11/2023,,Debit,-30.84,,65003865,Sam's Club,Shopping,Debit Card,63.38,,POS Card purchase SAMS CLUB #4784 5542 SAM'S CLUB LAS CRUCES NM
+,9/11/2023,,Debit,-16.25,,64903456,Raising Cane's,Restaurants & Dining,Debit Card,94.22,,Debit Card purchase RAISING CANES 0340 5814 LAS CRUCES NM
+,9/11/2023,,Debit,-8.43,,64877932,Starbucks,Restaurants & Dining,Debit Card,110.47,,Debit Card purchase STARBUCKS STORE 11645 5814 LAS CRUCES NM
+,9/11/2023,,Debit,-30,,64877934,Abc Fitness Service Charges/Fees,Service Charges & Fees,Fees,118.9,,Fee Withdrawal COMPANY: ABC FITNESS ENTRY: CLUBCHARGE E090823A ISAIAH MALCON - NSF Fee
+,9/10/2023,,Debit,-30.92,,64877933,TST* BOSQUE BREWING COMPA 5813 LAS CRUCES NM,Restaurants & Dining,Debit Card,148.9,,Debit Card purchase TST* BOSQUE BREWING COMPA 5813 LAS CRUCES NM
+,9/9/2023,,Debit,-67.88,,64799271,Walmart,Shopping,Debit Card,179.82,,POS Card purchase WM SUPERCENTER #806 5411 WAL-MART SUPER CENTER LAS CRUCES NM
+,9/9/2023,,Debit,-147.32,,64799270,The Home Depot,Home Supplies,Debit Card,247.7,,POS Card purchase THE HOME DEPOT #3505 5200 225 TELSHORE BLVD LAS CRUCES NM
+,9/9/2023,,Debit,-10.8,,64788737,Wendy's,Restaurants & Dining,Debit Card,395.02,,POS Card purchase WENDY'S 8028 5814 565 WALTON BLVD LAS CRUCES NM
+,9/8/2023,,Credit,435.14,,64739688,ACH Deposit COMPANY: RENEW ELECTRIC L ENTRY: PAYROLL ISAIAH MALCOM,Paychecks/Salary,ACH,405.82,,ACH Deposit COMPANY: RENEW ELECTRIC L ENTRY: PAYROLL ISAIAH MALCOM
+,9/6/2023,,Debit,-30,,64611945,Abc Fitness Service Charges/Fees,Service Charges & Fees,Fees,-29.32,,Fee Withdrawal COMPANY: ABC FITNESS ENTRY: CLUBCHARGE E090223A ISAIAH MALCON - NSF Fee
+,9/4/2023,,Debit,-100,,64469172,Online banking Withdrawal Transfer to LXX00 - Credit Card,Credit Card Payments,Transfer,0.68,,Online banking Withdrawal Transfer to L0100 - Credit Card Payment
+,9/1/2023,,Debit,-320,,64353042,Online banking Withdrawal Transfer to LXX00 - Credit Card,Credit Card Payments,Transfer,100.68,,Online banking Withdrawal Transfer to L0100 - Credit Card Payment
+,9/1/2023,,Credit,427.52,,64346985,ACH Deposit COMPANY: RENEW ELECTRIC L ENTRY: PAYROLL ISAIAH MALCOM,Paychecks/Salary,ACH,420.68,,ACH Deposit COMPANY: RENEW ELECTRIC L ENTRY: PAYROLL ISAIAH MALCOM

@@ -1,0 +1,102 @@
+created with git log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(green)(%ar)%C(reset) %C(black)%s%C(reset) %C(dim white)- %an%C(reset)%C(red)%d%C(reset)' --all
+*   69644f4 - (25 minutes ago) Merge branch 'main' of github.com:NMSU-CS-CS371/cs371-fa2023-teamproject-financetracker into main - Jonathan Cook (HEAD -> main, origin/main, origin/HEAD)
+|\  
+| *   c646983 - (3 weeks ago) Merge pull request #35 from NMSU-CS-CS371/julia - juliadingee
+| |\  
+| | *   75bdd99 - (3 weeks ago) merged? - Julia Dingee (origin/julia)
+| | |\  
+| | * | 9e6bc77 - (3 weeks ago) Fixed Error in FXML file that caused error - Julia Dingee
+| * | |   3869434 - (3 weeks ago) Merge pull request #33 from NMSU-CS-CS371/julia - juliadingee
+| |\ \ \  
+| | | |/  
+| | |/|   
+| | * | 92d01a6 - (3 weeks ago) merge to main? - Julia Dingee
+| | |\| 
+| | | * 827bb3e - (3 weeks ago) #26 data type changes for amount and date - Julia Dingee
+| | * |   b9ffe3e - (3 weeks ago) merge issues resolved - Julia Dingee
+| | |\ \  
+| | | |/  
+| | |/|   
+| | * | f019abd - (3 weeks ago) #23 user input test fields now display in the tableView - Julia Dingee
+| | * | 3ab4b5f - (3 weeks ago) controller currently triggering errors at table update - Julia Dingee
+| | * | 1aac33a - (3 weeks ago) updated FXML and controller - Julia Dingee
+| | * | 6699d14 - (4 weeks ago) updated layout - Julia Dingee
+| | * | 4687804 - (4 weeks ago) test - Julia Dingee
+| | * | 654924b - (9 weeks ago) removed financeTracker - Isaiah Malcom
+| * | |   6622733 - (3 weeks ago) Merge pull request #34 from NMSU-CS-CS371/jess - jessclem7
+| |\ \ \  
+| | * | | 16122ae - (3 weeks ago) add date to list view - Jessica Clem (origin/jess)
+| * | | |   8fbb23a - (3 weeks ago) Merge pull request #32 from NMSU-CS-CS371/anthony - Anthony Gonzales
+| |\ \ \ \  
+| * \ \ \ \   05d85fe - (3 weeks ago) Merge pull request #29 from NMSU-CS-CS371/jess - jessclem7
+| |\ \ \ \ \  
+| | | |/ / /  
+| | |/| | |   
+| | * | | | b3a6d54 - (3 weeks ago) updated dataHandler - Jessica Clem
+| * | | | | c081c14 - (3 weeks ago) Merge pull request #28 from NMSU-CS-CS371/jess - jessclem7
+| |\| | | | 
+| | * | | | 5124829 - (3 weeks ago) Add functionality to List Page #20 - Jessica Clem
+| * | | | | bee3eb1 - (3 weeks ago) Merge pull request #25 from NMSU-CS-CS371/jess - jessclem7
+| |\| | | | 
+| * | | | |   61dc409 - (3 weeks ago) Merge pull request #27 from NMSU-CS-CS371/anthony - Anthony Gonzales
+| |\ \ \ \ \  
+| | |_|_|_|/  
+| |/| | | |   
+* / | | | | 80dbb09 - (25 minutes ago) updated user stats - Jonathan Cook
+|/ / / / /  
+| | | | | * 024a312 - (7 days ago) Updated to match Main - Anthony Gonzales (origin/anthony)
+| | | | | * 4377ea1 - (7 days ago) Add files via upload - Anthony Gonzales
+| | | | |/  
+| | | |/|   
+| | | * | 3255e6c - (3 weeks ago) Updates to Home and Category Page #30 #31 - Anthony Gonzales
+| | |/ /  
+| |/| |   
+| * | | e66839d - (3 weeks ago) New Test CSVs - Anthony Gonzales
+| | | | * 83d20d4 - (3 weeks ago) working version of double properties directly in table columns - Jonathan Cook (origin/joncook, joncook)
+| | | | * aaf2e1f - (3 weeks ago) support for building jar file; also gitignore for java - Jonathan Cook
+| | | | * bdd39b2 - (3 weeks ago) move source into application dir, and add ant build file - Jonathan Cook
+| | | |/  
+| | |/|   
+| | * | 33f55d2 - (3 weeks ago) Savings Page save data #21 - Jessica Clem (jess)
+| | * | 1425be6 - (3 weeks ago) Savings Page save data #21 - Jessica Clem
+| | * | 234f6ef - (3 weeks ago) Complete layout of List Page - Jessica Clem
+| |/ /  
+|/| |   
+* | | b6513ce - (3 weeks ago) Merge pull request #24 from NMSU-CS-CS371/anthony - Anthony Gonzales
+|\| | 
+| * | c53b5ec - (3 weeks ago) Added Doubly Linked List option - Anthony Gonzales
+* | | eb845d8 - (3 weeks ago) updated userstats - Jonathan Cook
+* | | 6f47e66 - (5 weeks ago) Merge pull request #18 from NMSU-CS-CS371/anthony - Anthony Gonzales
+|\| | 
+| * | 6b5145a - (5 weeks ago) Added Category GUI #14 #15 - Anthony Gonzales
+* | |   95099cd - (5 weeks ago) Merge pull request #17 from NMSU-CS-CS371/jess - jessclem7
+|\ \ \  
+| * \ \   b87db53 - (5 weeks ago) Merge branch 'main' into jess - jessclem7
+| |\ \ \  
+| |/ / /  
+|/| | |   
+* | | | 416ff52 - (5 weeks ago) getting layout started - Julia Dingee
+* | | | b34119a - (6 weeks ago) initial repo user statistics - Jonathan Cook
+* | | |   3284d16 - (7 weeks ago) Merge pull request #11 from NMSU-CS-CS371/anthony - Anthony Gonzales
+|\ \ \ \  
+| | |/ /  
+| |/| |   
+| * | | e0d8428 - (7 weeks ago) GUI Updates #6 #9 #10 - Anthony Gonzales
+* | | | 5f76649 - (8 weeks ago) Merge pull request #5 from NMSU-CS-CS371/anthony - Anthony Gonzales
+|\| | | 
+| * | | c466a45 - (8 weeks ago) Basic GUI #4 - Anthony Gonzales
+| * | | e30942c - (9 weeks ago) removed financeTracker - Isaiah Malcom
+| | |/  
+| |/|   
+| | * ea0c851 - (5 weeks ago) Added functionality to Savings Page #13 - Jessica Clem
+| |/  
+| | * 42747fc - (4 weeks ago) loan edit - Isaiah Malcom (origin/isaiah)
+| | * 8b31fc0 - (5 weeks ago) more data - Isaiah Malcom
+| | * f6afde3 - (7 weeks ago) #6 basic csv functionality and graph - Isaiah Malcom
+| | * 52cec1f - (9 weeks ago) removed finance tracker - Isaiah Malcom
+| |/  
+| | * b841f39 - (9 weeks ago) removed financeTracker - Isaiah Malcom (origin/chris)
+| |/  
+| * 6f55ec9 - (9 weeks ago) jessica's file - Isaiah Malcom
+|/  
+* a0ffa45 - (9 weeks ago) setup - Isaiah Malcom

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.BillsController">
+
+   <children>
+      <Label layoutX="229.0" layoutY="35.0" text="Recurring Bills">
+         <font>
+            <Font size="50.0" />
+         </font>
+      </Label>
+      <Button layoutX="21.0" layoutY="542.0" mnemonicParsing="false" onAction="#switchToHome" prefHeight="43.0" prefWidth="105.0" text="Home">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Button>
+      <Button layoutX="148.0" layoutY="542.0" mnemonicParsing="false" onAction="#switchToList" prefHeight="43.0" prefWidth="105.0" text="List">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Button>
+      <Button layoutX="407.0" layoutY="542.0" mnemonicParsing="false" onAction="#switchToBills" prefHeight="43.0" prefWidth="110.0" text="Bills">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Button>
+      <Button layoutX="538.0" layoutY="542.0" mnemonicParsing="false" onAction="#switchToSavings" prefHeight="43.0" prefWidth="110.0" text="Savings">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Button>
+      <Button layoutX="668.0" layoutY="543.0" mnemonicParsing="false" onAction="#switchToLoan" prefHeight="43.0" prefWidth="110.0" text="Loan">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Button>
+      <Button layoutX="276.0" layoutY="542.0" mnemonicParsing="false" onAction="#switchToGroup" prefHeight="43.0" prefWidth="110.0" text="Group">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Button>
+
+      <TableView fx:id="tableView" layoutX="26.0" layoutY="118.0" prefHeight="279.0" prefWidth="543.0">
+        <columns>
+          <TableColumn fx:id="DateColumn" prefWidth="75.0" text="Date" />
+          <TableColumn fx:id="AmountColumn" prefWidth="82.0" text="Amount" />
+            <TableColumn fx:id="DescriptionColumn" prefWidth="174.0" text="Description" />
+            <TableColumn fx:id="CategoryColumn" prefWidth="211.0" text="Category" />
+        </columns>
+      </TableView>
+      <TextField id="DueDateField" fx:id="dueDateText" layoutX="588.0" layoutY="154.0" promptText="mm/dd/yyyy" />
+      <TextField id="AmountField" fx:id="amountText" layoutX="588.0" layoutY="199.0" promptText="Enter Amount" />
+      <TextField id="Description " fx:id="descriptionText" layoutX="588.0" layoutY="242.0" promptText="Enter Descrition " />
+      <TextField id="CategoryField" fx:id="categoryText" layoutX="588.0" layoutY="285.0" promptText="Enter Category " />
+      <Label layoutX="593.0" layoutY="129.0" text="Due Date" />
+      <Label layoutX="588.0" layoutY="181.0" text="Amount " />
+      <Label layoutX="588.0" layoutY="224.0" text="Description " />
+      <Label layoutX="588.0" layoutY="267.0" text="Category" />
+      <Label layoutX="407.0" layoutY="426.0" text="Next Bill Due" />
+      <Label layoutX="101.0" layoutY="426.0" text="Total amount of bills " />
+      <Button id="AddButton" layoutX="638.0" layoutY="331.0" mnemonicParsing="false" onAction="#addButton" text="Add" />
+      <TextField id="totalBillAmount" fx:id="totalBillAmount" alignment="CENTER" layoutX="77.0" layoutY="460.0" />
+      <TextField id="NextBillDue" fx:id="NextBillDue" alignment="CENTER" layoutX="362.0" layoutY="460.0" />
+
+   </children>
+</AnchorPane>

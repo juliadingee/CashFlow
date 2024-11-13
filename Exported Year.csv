@@ -1,0 +1,498 @@
+﻿Transaction ID,Posting Date,Effective Date,Transaction Type,Amount,Check Number,Reference Number,Description,Transaction Category,Type,Balance,Memo,Extended Description
+,9/28/2023,,Debit,-18.02,,65798760,Wendy's,Restaurants & Dining,Debit Card,204.65,,POS Card purchase WENDY'S 8028 5814 565 WALTON BLVD LAS CRUCES NM
+,9/28/2023,,Debit,-3.19,,65788798,Supercell,Entertainment,Debit Card,222.67,,Debit Card purchase GOOGLE *SUPERCELL 5818 G.CO/HELPPAY# CA
+,9/28/2023,,Debit,-10.65,,65788797,Supercell,Entertainment,Debit Card,225.86,,Debit Card purchase GOOGLE *SUPERCELL 5818 G.CO/HELPPAY# CA
+,9/28/2023,,Debit,-5.32,,65788796,Supercell,Entertainment,Debit Card,236.51,,Debit Card purchase GOOGLE *SUPERCELL 5818 G.CO/HELPPAY# CA
+,9/28/2023,,Debit,-19.35,,65788795,McDonald's,Restaurants & Dining,Debit Card,241.83,,Debit Card purchase MCDONALD'S F20533 5814 LAS CRUCES NM
+,9/27/2023,,Debit,-18.89,,65735588,Raising Cane's,Restaurants & Dining,Debit Card,261.18,,Debit Card purchase RAISING CANES 0340 5814 LAS CRUCES NM
+,9/27/2023,,Debit,-5.63,,65735587,Einstein Bros. Bagels,Restaurants & Dining,Debit Card,280.07,,Debit Card purchase EINSTEINS CCSU 5814 LAS CRUCES NM
+,9/25/2023,,Debit,-20.13,,65662338,Whataburger,Restaurants & Dining,Debit Card,285.7,,Debit Card purchase WHATABURGER 465 5814 LAS CRUCES NM
+,9/25/2023,,Debit,-12.82,,65662339,ACH Withdrawal COMPANY: CRUNCH FIT ENTRY: CLUB FEES XX-8030 ISAIAH MALCON,Personal Care & Fitness,,305.83,,ACH Withdrawal COMPANY: CRUNCH FIT ENTRY: CLUB FEES 505-387-8030 ISAIAH MALCON
+,9/23/2023,,Credit,300,,65538635,Transfer from Zelle,Transfers,,318.65,,Shared branch Deposit ZELLE 6532
+,9/23/2023,,Debit,-8.43,,65538634,Starbucks,Restaurants & Dining,Debit Card,18.65,,Debit Card purchase STARBUCKS STORE 11645 5814 LAS CRUCES NM
+,9/22/2023,,Debit,-29.21,,65505096,Supercuts,Personal Care & Fitness,Debit Card,27.08,,Debit Card purchase SUPERCUTS 7298 LAS CRUCES NM
+,9/22/2023,,Debit,-53.05,,65486285,Walmart,Shopping,Debit Card,56.29,,POS Card purchase WAL-MART SUPER CENTER 5411 0806 WAL-SAMS LAS CRUCES NM
+,9/22/2023,,Debit,-100,,65484887,Online banking Withdrawal Transfer to LXX00 - Credit Card,Credit Card Payments,Transfer,109.34,,Online banking Withdrawal Transfer to L0100 - Credit Card Payment
+,9/22/2023,,Debit,-300,,65484856,Transfer to Zelle,Transfers,,209.34,,Shared branch Withdrawal ZELLE 6532
+,9/22/2023,,Debit,-16.47,,65480601,Raising Cane's,Restaurants & Dining,Debit Card,509.34,,Debit Card purchase RAISING CANES 0340 5814 LAS CRUCES NM
+,9/21/2023,,Credit,147.38,,65443295,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY,Transfers,,525.81,,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY
+,9/19/2023,,Debit,-30,,65308247,Abc Fitness Service Charges/Fees,Service Charges & Fees,Fees,378.43,,Fee Withdrawal COMPANY: ABC FITNESS ENTRY: CLUBCHARGE E091623A ISAIAH MALCON - NSF Fee
+,9/18/2023,,Debit,-21.6,,65250056,Adobe Creative Cloud,Online Services,,408.43,,Bill payment Withdrawal ADOBE *CREATIVE CLOUD 5734 408-536-6000 CA
+,9/18/2023,,Debit,-10.82,,65250055,Planet Fitness,Personal Care & Fitness,,430.03,,ACH Withdrawal COMPANY: PLANET FIT ENTRY: CLUB FEES 575-522-7867 ISAIAH MALCOM
+,9/17/2023,,Debit,-11.99,,65250054,HOSTINGER* HOSTINGER.C 7372 KAUNAS LT,Online Services,Debit Card,440.85,,Debit Card purchase HOSTINGER* HOSTINGER.C 7372 KAUNAS LT
+,9/15/2023,,Debit,-27.7,,65114267,Village Inn,Restaurants & Dining,Debit Card,452.84,,Debit Card purchase VILLAGE INN PANCAKE HO 5812 LAS CRUCES NM
+,9/15/2023,,Debit,-14.04,,65114266,Village Inn,Restaurants & Dining,Debit Card,480.54,,Debit Card purchase VILLAGE INN PANCAKE HO 5812 LAS CRUCES NM
+,9/15/2023,,Debit,-5.75,,65106274,Aggie Car Wash,Automotive Expenses,Debit Card,494.58,,Debit Card purchase AGGIE CARWASH 7542 LAS CRUCES NM
+,9/15/2023,,Debit,-5.86,,65106273,YouTube Music,Entertainment,Debit Card,500.33,,Debit Card purchase GOOGLE *YOUTUBE MUSIC 5815 G.CO/HELPPAY# CA
+,9/14/2023,,Credit,388.81,,65067422,ATM Deposit CU ANYTIME XX 1715 EAST UNIVERSITY LAS CRUCES NM,Deposits,,506.19,,ATM Deposit CU ANYTIME 6011 1715 EAST UNIVERSITY LAS CRUCES NM
+,9/14/2023,,Credit,147.38,,65042621,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY,Transfers,,117.38,,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY
+,9/14/2023,,Debit,-30,,65042620,Abc Fitness Service Charges/Fees,Service Charges & Fees,Fees,-30,,Fee Withdrawal COMPANY: ABC FITNESS ENTRY: CLUBCHARGE E091323A ISAIAH MALCON - NSF Fee
+,9/12/2023,,Debit,-13.39,,65003867,Blake's Lotaburger,Restaurants & Dining,Debit Card,0,,Debit Card purchase BLAKE S LOTABURGER - 028 5814 LAS CRUCES NM
+,9/12/2023,,Debit,-49.99,,65003866,Payment to Comcast,Cable & Satellite,,13.39,,Bill payment Withdrawal COMCAST CABLE COMM 4899 800-COMCAST CO
+,9/11/2023,,Debit,-30.84,,65003865,Sam's Club,Shopping,Debit Card,63.38,,POS Card purchase SAMS CLUB #4784 5542 SAM'S CLUB LAS CRUCES NM
+,9/11/2023,,Debit,-16.25,,64903456,Raising Cane's,Restaurants & Dining,Debit Card,94.22,,Debit Card purchase RAISING CANES 0340 5814 LAS CRUCES NM
+,9/11/2023,,Debit,-8.43,,64877932,Starbucks,Restaurants & Dining,Debit Card,110.47,,Debit Card purchase STARBUCKS STORE 11645 5814 LAS CRUCES NM
+,9/11/2023,,Debit,-30,,64877934,Abc Fitness Service Charges/Fees,Service Charges & Fees,Fees,118.9,,Fee Withdrawal COMPANY: ABC FITNESS ENTRY: CLUBCHARGE E090823A ISAIAH MALCON - NSF Fee
+,9/10/2023,,Debit,-30.92,,64877933,TST* BOSQUE BREWING COMPA 5813 LAS CRUCES NM,Restaurants & Dining,Debit Card,148.9,,Debit Card purchase TST* BOSQUE BREWING COMPA 5813 LAS CRUCES NM
+,9/9/2023,,Debit,-67.88,,64799271,Walmart,Shopping,Debit Card,179.82,,POS Card purchase WM SUPERCENTER #806 5411 WAL-MART SUPER CENTER LAS CRUCES NM
+,9/9/2023,,Debit,-147.32,,64799270,The Home Depot,Home Supplies,Debit Card,247.7,,POS Card purchase THE HOME DEPOT #3505 5200 225 TELSHORE BLVD LAS CRUCES NM
+,9/9/2023,,Debit,-10.8,,64788737,Wendy's,Restaurants & Dining,Debit Card,395.02,,POS Card purchase WENDY'S 8028 5814 565 WALTON BLVD LAS CRUCES NM
+,9/8/2023,,Credit,435.14,,64739688,ACH Deposit COMPANY: RENEW ELECTRIC L ENTRY: PAYROLL ISAIAH MALCOM,Paychecks/Salary,ACH,405.82,,ACH Deposit COMPANY: RENEW ELECTRIC L ENTRY: PAYROLL ISAIAH MALCOM
+,9/6/2023,,Debit,-30,,64611945,Abc Fitness Service Charges/Fees,Service Charges & Fees,Fees,-29.32,,Fee Withdrawal COMPANY: ABC FITNESS ENTRY: CLUBCHARGE E090223A ISAIAH MALCON - NSF Fee
+,9/4/2023,,Debit,-100,,64469172,Online banking Withdrawal Transfer to LXX00 - Credit Card,Credit Card Payments,Transfer,0.68,,Online banking Withdrawal Transfer to L0100 - Credit Card Payment
+,9/1/2023,,Debit,-320,,64353042,Online banking Withdrawal Transfer to LXX00 - Credit Card,Credit Card Payments,Transfer,100.68,,Online banking Withdrawal Transfer to L0100 - Credit Card Payment
+,9/1/2023,,Credit,427.52,,64346985,ACH Deposit COMPANY: RENEW ELECTRIC L ENTRY: PAYROLL ISAIAH MALCOM,Paychecks/Salary,ACH,420.68,,ACH Deposit COMPANY: RENEW ELECTRIC L ENTRY: PAYROLL ISAIAH MALCOM
+,8/31/2023,,Debit,-30,,64259445,Abc Fitness Service Charges/Fees,Service Charges & Fees,Fees,-6.84,,Fee Withdrawal COMPANY: ABC FITNESS ENTRY: CLUBCHARGE E083023A ISAIAH MALCON - NSF Fee
+,8/28/2023,,Debit,-30,,64115639,Abc Fitness Service Charges/Fees,Service Charges & Fees,Fees,23.16,,Fee Withdrawal COMPANY: ABC FITNESS ENTRY: CLUBCHARGE E082523A ISAIAH MALCON - NSF Fee
+,8/26/2023,,Debit,-24.53,,63999456,Dion's,Restaurants & Dining,Debit Card,53.16,,Debit Card purchase DIONS 18 5812 LAS CRUCES NM
+,8/25/2023,,Debit,-43.69,,63943383,Sam's Club,Shopping,Debit Card,77.69,,POS Card purchase SAMS CLUB #4784 5542 SAM'S CLUB LAS CRUCES NM
+,8/25/2023,,Debit,-400,,63937890,Online banking Withdrawal Transfer to LXX00 - Credit Card,Credit Card Payments,Transfer,121.38,,Online banking Withdrawal Transfer to L0100 - Credit Card Payment
+,8/25/2023,,Credit,404.48,,63937854,ACH Deposit COMPANY: RENEW ELECTRIC L ENTRY: PAYROLL ISAIAH MALCOM,Paychecks/Salary,ACH,521.38,,ACH Deposit COMPANY: RENEW ELECTRIC L ENTRY: PAYROLL ISAIAH MALCOM
+,8/22/2023,,Debit,-21.6,,63829068,Adobe Creative Cloud,Online Services,,116.9,,Bill payment Withdrawal ADOBE CREATIVE CLOUD 5734 408-536-6000 CA
+,8/21/2023,,Credit,50,,63664510,Transfer from Zelle,Transfers,,138.5,,Shared branch Deposit ZELLE 6532
+,8/20/2023,,Debit,-58,,63658141,Dave & Buster's,Restaurants & Dining,Debit Card,88.5,,Debit Card purchase DAVE & BUSTER'S #92 5812 EL PASO TX
+,8/20/2023,,Debit,-24.9,,63641936,RENTACHEFELPASO 5811 EL PASO TX,Rent,Debit Card,146.5,,Debit Card purchase RENTACHEFELPASO 5811 EL PASO TX
+,8/20/2023,,Debit,-26.77,,63641935,Rockstar Burger Bar,Restaurants & Dining,Debit Card,171.4,,Debit Card purchase TST* ROCKSTAR BURGER BAR 5812 EL PASO TX
+,8/20/2023,,Debit,-8.5,,63641934,Rockstar Burger Bar,Restaurants & Dining,Debit Card,198.17,,Debit Card purchase TST* ROCKSTAR BURGER BAR 5812 EL PASO TX
+,8/20/2023,,Debit,-15,,63641933,DIVERSIFIED PARKING INC 7523 EL PASO TX,Travel & Commute,Debit Card,206.67,,Debit Card purchase DIVERSIFIED PARKING INC 7523 EL PASO TX
+,8/20/2023,,Debit,-9.9,,63641932,Amazon,Shopping,Debit Card,221.67,,Debit Card purchase AMAZON.COM*TQ0707MN2 5942 AMZN.COM/BILL WA
+,8/20/2023,,Debit,-87,,63620531,Online banking Withdrawal Transfer to LXX00 - Credit Card,Credit Card Payments,Transfer,231.57,,Online banking Withdrawal Transfer to L0100 - Credit Card Payment
+,8/19/2023,,Debit,-12.63,,63603413,Whataburger,Restaurants & Dining,Debit Card,318.57,,Debit Card purchase WHATABURGER 465 5814 LAS CRUCES NM
+,8/19/2023,,Debit,-27,,63603415,AMZN MKTP US*TQ0366ZZ0 5942 AMZN.COM/BILL WA,Shopping,Debit Card,331.2,,Debit Card purchase AMZN MKTP US*TQ0366ZZ0 5942 AMZN.COM/BILL WA
+,8/19/2023,,Debit,-3.29,,63603414,Speedway,Gasoline/Fuel,Debit Card,358.2,,Debit Card purchase SPEEDWAY 09128 1685 E. UN 5541 LAS CRUCES NM
+,8/19/2023,,Credit,260,,63577285,ATM Deposit CU ANYTIME 6011 1600S VALLEY DR LAS CRUCES NM,Deposits,,361.49,,ATM Deposit CU ANYTIME 6011 1600S VALLEY DR LAS CRUCES NM
+,8/19/2023,,Debit,-8.49,,63577214,Circle K,Groceries,Debit Card,101.49,,Debit Card purchase CIRCLE K 06001 5499 LAS CRUCES NM
+,8/18/2023,,Debit,-11.99,,63577213,HOSTINGER* HOSTINGER.C 7372 KAUNAS LT,Online Services,Debit Card,109.98,,Debit Card purchase HOSTINGER* HOSTINGER.C 7372 KAUNAS LT
+,8/18/2023,,Debit,-300,,63552819,Online banking Withdrawal Transfer to LXX00 - Credit Card,Credit Card Payments,Transfer,121.97,,Online banking Withdrawal Transfer to L0100 - Credit Card Payment
+,8/18/2023,,Debit,-17.96,,63552495,Walmart,Shopping,Debit Card,421.97,,POS Card purchase WAL-MART #0806 5411 571 WALTON BLVD LAS CRUCES NM
+,8/18/2023,,Debit,-6.5,,63552496,Aggie Car Wash,Automotive Expenses,Debit Card,439.93,,Debit Card purchase AGGIE CARWASH 7542 LAS CRUCES NM
+,8/18/2023,,Credit,433.14,,63534426,ACH Deposit COMPANY: RENEW ELECTRIC L ENTRY: PAYROLL ISAIAH MALCOM,Paychecks/Salary,ACH,446.43,,ACH Deposit COMPANY: RENEW ELECTRIC L ENTRY: PAYROLL ISAIAH MALCOM
+,8/17/2023,,Debit,-10.82,,63483254,Planet Fitness,Personal Care & Fitness,,13.29,,ACH Withdrawal COMPANY: PLANET FIT ENTRY: CLUB FEES 575-522-7867 ISAIAH MALCOM
+,8/17/2023,,Debit,-10.79,,63463323,Circle K,Groceries,Debit Card,24.11,,Debit Card purchase CIRCLE K 06001 5499 LAS CRUCES NM
+,8/13/2023,,Debit,-15.97,,63327898,Wendy's,Restaurants & Dining,Debit Card,34.9,,POS Card purchase WENDY'S 8028 5814 565 WALTON BLVD LAS CRUCES NM
+,8/13/2023,,Debit,-5.32,,63271521,YouTube Music,Entertainment,Debit Card,50.87,,Debit Card purchase GOOGLE *YOUTUBE MUSIC 7829 G.CO/HELPPAY# CA
+,8/12/2023,,Debit,-16.7,,63237167,Raising Cane's,Restaurants & Dining,Debit Card,56.19,,Debit Card purchase RAISING CANES 0340 5814 LAS CRUCES NM
+,8/11/2023,,Debit,-9.25,,63237166,Aggie Car Wash,Automotive Expenses,Debit Card,72.89,,Debit Card purchase AGGIE CARWASH 7542 LAS CRUCES NM
+,8/11/2023,,Debit,-300,,63177242,Online banking Withdrawal Transfer to LXX00 - Credit Card,Credit Card Payments,Transfer,82.14,,Online banking Withdrawal Transfer to L0100 - Credit Card Payment
+,8/11/2023,,Credit,370.49,,63156018,ACH Deposit COMPANY: RENEW ELECTRIC L ENTRY: PAYROLL ISAIAH MALCOM,Paychecks/Salary,ACH,382.14,,ACH Deposit COMPANY: RENEW ELECTRIC L ENTRY: PAYROLL ISAIAH MALCOM
+,8/5/2023,,Debit,-16.19,,62842374,Blake's Lotaburger,Restaurants & Dining,Debit Card,11.65,,Debit Card purchase BLAKE S LOTABURGER - 033 5814 LAS CRUCES NM
+,8/5/2023,,Debit,-50,,62842372,WELLS FARGO C/A #XX 6010 LAS CRUCES NM,Other Expenses,Debit Card,27.84,,Debit Card purchase WELLS FARGO C/A #005388 6010 LAS CRUCES NM
+,8/5/2023,,Debit,-8.53,,62842373,Caliche's Frozen Custard,Restaurants & Dining,Debit Card,77.84,,Debit Card purchase CALICHES FROZEN CUSTARD 5814 LAS CRUCES NM
+,8/4/2023,,Debit,-2.25,,62798207,Aggie Car Wash,Automotive Expenses,Debit Card,86.37,,Debit Card purchase AGGIE CARWASH 7542 LAS CRUCES NM
+,8/3/2023,,Debit,-400,,62742074,Online banking Withdrawal Transfer to LXX00 - Credit Card,Credit Card Payments,Transfer,88.62,,Online banking Withdrawal Transfer to L0100 - Credit Card Payment
+,8/3/2023,,Credit,488.12,,62742039,Check Deposit,Deposits,Deposit,488.62,,Check Deposit
+,8/2/2023,,Debit,-21.5,,62704179,McDonald's,Restaurants & Dining,Debit Card,0.5,,Debit Card purchase MCDONALD'S F6849 5814 LAS CRUCES NM
+,8/2/2023,,Debit,-92,,62639702,Online banking Withdrawal Transfer to LXX00 - Credit Card,Credit Card Payments,Transfer,22,,Online banking Withdrawal Transfer to L0100 - Credit Card Payment
+,8/1/2023,,Credit,14,,62638133,ATM Deposit CU ANYTIME 6011 1600S VALLEY DR LAS CRUCES NM,Deposits,,114,,ATM Deposit CU ANYTIME 6011 1600S VALLEY DR LAS CRUCES NM
+,8/1/2023,,Credit,100,,62638132,ATM Deposit CU ANYTIME 6011 1600S VALLEY DR LAS CRUCES NM,Deposits,,100,,ATM Deposit CU ANYTIME 6011 1600S VALLEY DR LAS CRUCES NM
+,8/1/2023,,Debit,-0.73,,62625187,McDonald's,Restaurants & Dining,Debit Card,0,,POS Card purchase MCDONALD'S F20533 5814 1751 E UNIVERSITY AVE LAS CRUCES NM
+,8/1/2023,,Debit,-30,,62575410,Online banking Withdrawal Transfer to LXX00 - Credit Card,Credit Card Payments,Transfer,0.73,,Online banking Withdrawal Transfer to L0100 - Credit Card Payment
+,8/1/2023,,Debit,-7.45,,62575230,Caliche's Frozen Custard,Restaurants & Dining,Debit Card,30.73,,Debit Card purchase CALICHES FROZEN CUSTARD 5814 LAS CRUCES NM
+,7/31/2023,,Debit,-78.22,,62575229,The Home Depot,Home Supplies,Debit Card,38.18,,POS Card purchase THE HOME DEPOT #3505 5200 225 TELSHORE BLVD LAS CRUCES NM
+,7/31/2023,,Credit,100,,62548879,Credit Card Payment Received,Credit Card Payments,Transfer,116.4,,Online banking Deposit Transfer from S0000
+,7/31/2023,,Debit,-46.34,,62548819,RIB HUT 5812 EL PASO TX,Restaurants & Dining,Debit Card,16.4,,Debit Card purchase RIB HUT 5812 EL PASO TX
+,7/31/2023,,Debit,-10,,62502384,MUSTANG FRANKLIN 7523 DALLAS TX,Restaurants & Dining,Debit Card,62.74,,Debit Card purchase MUSTANG FRANKLIN 7523 DALLAS TX
+,7/30/2023,,Debit,-22.92,,62463825,WingHouse,Restaurants & Dining,Debit Card,72.74,,Debit Card purchase EL PASO WING HOUSE 5812 EL PASO TX
+,7/30/2023,,Debit,-39.43,,62463824,Speedway,Gasoline/Fuel,Debit Card,95.66,,Debit Card purchase SPEEDWAY 09128 1685 E. UN 5542 LAS CRUCES NM
+,7/29/2023,,Credit,98.25,,62442692,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY,Transfers,,135.09,,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY
+,7/29/2023,,Debit,-92.93,,62442062,Payment to U-Haul,Rent,Debit Card,36.84,,Debit Card purchase U-HAUL MOVING & STORAGE A 7513 LAS CRUCES NM
+,7/29/2023,,Debit,-3.29,,62433357,Speedway,Gasoline/Fuel,Debit Card,129.77,,Debit Card purchase SPEEDWAY 09128 1685 E. UN 5541 LAS CRUCES NM
+,7/29/2023,,Debit,-13.08,,62433355,McDonald's,Restaurants & Dining,Debit Card,133.06,,Debit Card purchase MCDONALD'S F20533 5814 LAS CRUCES NM
+,7/28/2023,,Debit,-3.32,,62433356,Phillips 66,Gasoline/Fuel,Debit Card,146.14,,Debit Card purchase PHILLIPS 66 - KEWA GAS 1 5541 SANTO DOMINGO NM
+,7/28/2023,,Credit,49.7,,62389997,AutoZone,Automotive Expenses,Debit Card,149.46,,POS Card purchase return Adjustment AUTOZONE 02502 5533 1425 S EL PASEO RD LAS CRUCES NM
+,7/28/2023,,Debit,-11.65,,62378843,Marathon Petroleum,Gasoline/Fuel,Debit Card,99.76,,Debit Card purchase MARATHON PETRO235069 5541 LEMITAR NM
+,7/28/2023,,Debit,-32.4,,62378842,Payment to U-Haul,Rent,Debit Card,111.41,,Debit Card purchase U-HAUL MOVING & STORAGE A 5999 LAS CRUCES NM
+,7/28/2023,,Debit,-72.69,,62378841,Road Runner Sports,Shopping,Debit Card,143.81,,Debit Card purchase ROADRUNNER 5541 LEMITAR NM
+,7/28/2023,,Debit,-72.5,,62364927,Kewa Gas,Gasoline/Fuel,Debit Card,216.5,,POS Card purchase KEWA GAS 2 5542 HWY 22 W US SANTO DOMINGO NM
+,7/27/2023,,Debit,-16.39,,62364926,Taco Bell,Restaurants & Dining,Debit Card,289,,Debit Card purchase TACO BELL 001600167551 5814 LAS CRUCES NM
+,7/27/2023,,Debit,-330.63,,62284516,Harbor Freight Tools,Home Supplies,Debit Card,305.39,,Debit Card purchase HARBOR FREIGHT TOOLS 236 5251 LAS CRUCES NM
+,7/26/2023,,Debit,-49.7,,62284515,AutoZone,Automotive Expenses,Debit Card,636.02,,POS Card purchase AUTOZONE 02502 5533 1425 S EL PASEO RD LAS CRUCES NM
+,7/26/2023,,Credit,491.25,,62239324,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY,Transfers,,685.72,,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY
+,7/24/2023,,Credit,200,,62139562,Cash Deposit,Deposits,Deposit,194.47,,Cash Deposit
+,7/23/2023,,Debit,-16.7,,62094565,Raising Cane's,Restaurants & Dining,Debit Card,-5.53,,Debit Card purchase RAISING CANES 0340 5814 LAS CRUCES NM
+,7/23/2023,,Debit,-32.23,,62068140,Speedway,Gasoline/Fuel,Debit Card,11.17,,Debit Card purchase SPEEDWAY 09128 1685 E. UN 5542 LAS CRUCES NM
+,7/22/2023,,Debit,-39.1,,62026773,TST* MOOSES DRAFT HOUSE 5813 EL PASO TX,Restaurants & Dining,Debit Card,43.4,,Debit Card purchase TST* MOOSES DRAFT HOUSE 5813 EL PASO TX
+,7/22/2023,,Debit,-16.29,,62026772,Amazon,Shopping,,82.5,,Bill payment Withdrawal AMAZON PRIME*GA8WU5AH3 5968 AMZN.COM/BILL WA
+,7/22/2023,,Credit,49.13,,62014323,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY,Transfers,,98.79,,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY
+,7/21/2023,,Debit,-9.44,,62005849,Whataburger,Restaurants & Dining,Debit Card,49.66,,Debit Card purchase WHATABURGER 465 5814 LAS CRUCES NM
+,7/20/2023,,Debit,-11.23,,61962723,Wendy's,Restaurants & Dining,Debit Card,59.1,,POS Card purchase WENDY'S 8028 5814 565 WALTON BLVD LAS CRUCES NM
+,7/20/2023,,Debit,-18.36,,61961324,AutoZone,Automotive Expenses,Debit Card,70.33,,POS Card purchase AUTOZONE 02502 5533 1425 S EL PASEO RD LAS CRUCES NM
+,7/20/2023,,Debit,-8.75,,61954907,Aggie Car Wash,Automotive Expenses,Debit Card,88.69,,Debit Card purchase AGGIE CARWASH 7542 LAS CRUCES NM
+,7/19/2023,,Credit,60,,61907179,ATM Deposit CU ANYTIME XX 1715 EAST UNIVERSITY LAS CRUCES NM,Deposits,,97.44,,ATM Deposit CU ANYTIME 6011 1715 EAST UNIVERSITY LAS CRUCES NM
+,7/19/2023,,Debit,-8.35,,61907177,Walmart,Shopping,Debit Card,37.44,,POS Card purchase WM SUPERCENTER #806 5411 WAL-MART SUPER CENTER LAS CRUCES NM
+,7/19/2023,,Debit,-0.65,,61907178,La Finca,Groceries,Debit Card,45.79,,Debit Card purchase LA FINCA MEAT MARKET 2 5422 LAS CRUCES NM
+,7/19/2023,,Debit,-38.98,,61897943,Marathon Petroleum,Gasoline/Fuel,Debit Card,46.44,,Debit Card purchase MARATHON PETRO235069 5542 LEMITAR NM
+,7/19/2023,,Debit,-20.78,,61897942,El Parasol,Restaurants & Dining,Debit Card,85.42,,Debit Card purchase EL PARASOL 5812 ESPANOLA NM
+,7/18/2023,,Credit,98.25,,61839209,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY,Transfers,,106.2,,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY
+,7/18/2023,,Debit,-21.6,,61838764,Adobe Creative Cloud,Online Services,,7.95,,Bill payment Withdrawal ADOBE *CREATIVE CLOUD 5734 408-536-6000 CA
+,7/17/2023,,Debit,-11.99,,61773010,HOSTINGER* HOSTINGER.C 7372 KAUNAS LT,Online Services,Debit Card,29.55,,Debit Card purchase HOSTINGER* HOSTINGER.C 7372 KAUNAS LT
+,7/17/2023,,Debit,-10.82,,61758159,Planet Fitness,Personal Care & Fitness,,41.54,,ACH Withdrawal COMPANY: PLANET FIT ENTRY: CLUB FEES 575-522-7867 ISAIAH MALCOM
+,7/17/2023,,Debit,-3.29,,61758158,Speedway,Gasoline/Fuel,Debit Card,52.36,,Debit Card purchase SPEEDWAY 09128 1685 E. UN 5541 LAS CRUCES NM
+,7/15/2023,,Debit,-10.59,,61650546,Starbucks,Restaurants & Dining,Debit Card,55.65,,Debit Card purchase STARBUCKS STORE 11645 5814 LAS CRUCES NM
+,7/13/2023,,Debit,-500,,61527446,Withdrawal,ATM/Cash Withdrawals,Withdrawal,66.24,,Withdrawal
+,7/13/2023,,Credit,500,,61527444,Deposit Transfer from James Matthew Malcom #######535 S0002,Transfers,Transfer,566.24,,Deposit Transfer from James Matthew Malcom #######535 S0002
+,7/13/2023,,Debit,-5.32,,61527443,YouTube Music,Entertainment,Debit Card,66.24,,Debit Card purchase GOOGLE *YOUTUBE MUSIC 7829 G.CO/HELPPAY# CA
+,7/13/2023,,Debit,-20.16,,61527445,Speedway,Gasoline/Fuel,Debit Card,71.56,,Debit Card purchase SPEEDWAY 09128 1685 E. UN 5542 LAS CRUCES NM
+,7/12/2023,,Credit,80,,61477692,ATM Deposit CU ANYTIME 6011 1600S VALLEY DR LAS CRUCES NM,Deposits,,91.72,,ATM Deposit CU ANYTIME 6011 1600S VALLEY DR LAS CRUCES NM
+,7/12/2023,,Credit,10,,61477691,ATM Deposit CU ANYTIME 6011 1600S VALLEY DR LAS CRUCES NM,Deposits,,11.72,,ATM Deposit CU ANYTIME 6011 1600S VALLEY DR LAS CRUCES NM
+,7/9/2023,,Debit,-9,,61278162,Aggie Car Wash,Automotive Expenses,Debit Card,1.72,,Debit Card purchase AGGIE CARWASH 7542 LAS CRUCES NM
+,7/8/2023,,Debit,-39.99,,61235494,Payment to Comcast,Cable & Satellite,,10.72,,Bill payment Withdrawal COMCAST CABLE COMM 4899 800-COMCAST CO
+,7/8/2023,,Debit,-76.07,,61235493,Harbor Freight Tools,Home Supplies,Debit Card,50.71,,Debit Card purchase HARBOR FREIGHT TOOLS 236 5251 LAS CRUCES NM
+,7/8/2023,,Debit,-141,,61209540,Dick's Sporting Goods,Shopping,Debit Card,126.78,,Debit Card purchase DICKS SPORTING GOODS 5941 LAS CRUCES NM
+,7/7/2023,,Credit,49.13,,61191979,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY,Transfers,,267.78,,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY
+,7/7/2023,,Debit,-5.99,,61184476,Walgreens,Healthcare & Pharmacy,Debit Card,218.65,,POS Card purchase WALGREENS STORE 1256 EL P 5912 LAS CRUCES NM
+,7/6/2023,,Debit,-16.7,,61184477,Raising Cane's,Restaurants & Dining,Debit Card,224.64,,Debit Card purchase RAISING CANES 0340 5814 LAS CRUCES NM
+,7/5/2023,,Credit,245,,61045505,ACH Deposit COMPANY: VENMO ENTRY: CASHOUT ISAIAH MALCOM,Transfers,ACH,241.34,,ACH Deposit COMPANY: VENMO ENTRY: CASHOUT ISAIAH MALCOM
+,7/4/2023,,Debit,-16.7,,61045504,Raising Cane's,Restaurants & Dining,Debit Card,-3.66,,Debit Card purchase RAISING CANES 0340 5814 LAS CRUCES NM
+,7/4/2023,,Debit,-100,,60984731,Instacopy,Printing,Debit Card,13.04,,Debit Card purchase INSTA COPY 5943 LAS CRUCES NM
+,7/4/2023,,Debit,-46.05,,60983362,Kona Grill,Restaurants & Dining,Debit Card,113.04,,Debit Card purchase KONA GRILL - EL PASO 5812 EL PASO TX
+,7/3/2023,,Debit,-5.84,,60983361,Menchie's Frozen Yogurt,Restaurants & Dining,Debit Card,159.09,,Debit Card purchase MENCHIES - MENB704 5814 EL PASO TX
+,7/3/2023,,Debit,-26.23,,60948983,Supercuts,Personal Care & Fitness,Debit Card,164.93,,Debit Card purchase SUPERCUTS 7298 LAS CRUCES NM
+,7/3/2023,,Credit,98.25,,60928315,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY,Transfers,,191.16,,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY
+,7/3/2023,,Debit,-48.09,,60922414,Speedway,Gasoline/Fuel,Debit Card,92.91,,Debit Card purchase SPEEDWAY 09128 1685 E. UN 5542 LAS CRUCES NM
+,7/2/2023,,Debit,-15.48,,60922413,Taqueria El Cometa,Restaurants & Dining,Debit Card,141,,Debit Card purchase TAQUERIA EL COMETA 5812 EL PASO TX
+,7/2/2023,,Credit,54.04,,60892313,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY,Transfers,,156.48,,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY
+,6/29/2023,,Debit,-11.62,,60750449,Wendy's,Restaurants & Dining,Debit Card,102.44,,POS Card purchase WENDY'S 8028 5814 565 WALTON BLVD LAS CRUCES NM
+,6/29/2023,,Credit,95,,60726696,ATM Deposit CU ANYTIME XX 1715 EAST UNIVERSITY LAS CRUCES NM,Deposits,,114.06,,ATM Deposit CU ANYTIME 6011 1715 EAST UNIVERSITY LAS CRUCES NM
+,6/29/2023,,Debit,-30.03,,60726695,Circle K,Groceries,Debit Card,19.06,,POS Card purchase CIRCLE K # 09665 5542 LAS CRUCES NM
+,6/29/2023,,Debit,-3.49,,60691956,Circle K,Groceries,Debit Card,49.09,,Debit Card purchase CIRCLE K # 09672 5541 LAS CRUCES NM
+,6/27/2023,,Debit,-25.82,,60691955,Planet Fitness,Personal Care & Fitness,,52.58,,Bill payment Withdrawal ABC*PLANET FITNESS 7997 575-5227867 NM
+,6/27/2023,,Debit,-51.41,,60691954,HOSTINGER.COM 5734 LARNAKA CY,Online Services,Debit Card,78.4,,Debit Card purchase HOSTINGER.COM 5734 LARNAKA CY
+,6/27/2023,,Debit,-10.17,,60691953,HOSTINGER.COM 5734 LARNAKA CY,Online Services,Debit Card,129.81,,Debit Card purchase HOSTINGER.COM 5734 LARNAKA CY
+,6/26/2023,,Debit,-2.25,,60550385,Aggie Car Wash,Automotive Expenses,Debit Card,139.98,,Debit Card purchase AGGIE CARWASH 7542 LAS CRUCES NM
+,6/25/2023,,Debit,-21.83,,60550384,AutoZone,Automotive Expenses,Debit Card,142.23,,POS Card purchase AUTOZONE 5677 5533 1203 EAST LOHMAN A LAS CRUCES NM
+,6/25/2023,,Credit,200,,60482669,Online banking Deposit Transfer from S0000,Deposits,Transfer,164.06,,Online banking Deposit Transfer from S0000
+,6/20/2023,,Debit,-30,,60482626,Planet Fitness Service Charges/Fees,Service Charges & Fees,Fees,-35.94,,Fee Withdrawal COMPANY: PLANET FIT ENTRY: CLUB FEES 575-522-7867 ISAIAH MALCOM - NSF Fee
+,6/20/2023,,Debit,-8.11,,60482625,Starbucks,Restaurants & Dining,Debit Card,-5.94,,Debit Card purchase STARBUCKS STORE 02774 5814 LAS CRUCES NM
+,6/20/2023,,Debit,-27.52,,60482624,Chevron,Gasoline/Fuel,Debit Card,2.17,,Debit Card purchase CHEVRON 0075976 5542 SOCORRO NM
+,6/18/2023,,Debit,-5.38,,60099376,The Home Depot,Home Supplies,Debit Card,29.69,,POS Card purchase NST THE HOME DEPOT 000080 5200 225 TELSHORE BLVD LAS CRUCES NM
+,6/18/2023,,Debit,-21.63,,60099377,Adobe Creative Cloud,Online Services,,35.07,,Bill payment Withdrawal ADOBE *CREATIVE CLOUD 5734 408-536-6000 CA
+,6/17/2023,,Debit,-11.99,,60072966,HOSTINGER.COM 5734 LARNAKA CY,Online Services,Debit Card,56.7,,Debit Card purchase HOSTINGER.COM 5734 LARNAKA CY
+,6/17/2023,,Debit,-5,,60072965,Aggie Car Wash,Automotive Expenses,Debit Card,68.69,,Debit Card purchase AGGIE CARWASH 7542 LAS CRUCES NM
+,6/15/2023,,Debit,-154.69,,59950163,AutoZone,Automotive Expenses,Debit Card,73.69,,POS Card purchase AUTOZONE 02523 5533 2940 N MAIN ST LAS CRUCES NM
+,6/15/2023,,Debit,-20,,59946076,Online banking Withdrawal Transfer to LXX00 - Credit Card,Credit Card Payments,Transfer,228.38,,Online banking Withdrawal Transfer to L0100 - Credit Card Payment
+,6/15/2023,,Credit,196.5,,59946077,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY,Transfers,,248.38,,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY
+,6/15/2023,,Credit,32.05,,59945141,Uber,Travel & Commute,,51.88,,POS Deposit UBER UBER 182 6051 SAN FRANCISCO CA
+,6/14/2023,,Debit,-51.1,,59907542,Sprouts Farmers Market,Groceries,Debit Card,19.83,,Debit Card purchase SPROUTS FARMERS MAR 5411 LAS CRUCES NM
+,6/14/2023,,Debit,-4.12,,59900038,Sam's Club,Shopping,Debit Card,70.93,,POS Card purchase SAMSCLUB #4784 5411 2711 NORTH TELSHORE BLV LAS CRUCES NM
+,6/14/2023,,Debit,-30.75,,59894582,Sam's Club,Shopping,Debit Card,75.05,,POS Card purchase SAMSCLUB #4784 5542 2711 NORTH TELSHORE BLV LAS CRUCES NM
+,6/14/2023,,Debit,-4.75,,59893779,Aggie Car Wash,Automotive Expenses,Debit Card,105.8,,Debit Card purchase AGGIE CARWASH 7542 LAS CRUCES NM
+,6/14/2023,,Debit,-11.2,,59893778,McDonald's,Restaurants & Dining,Debit Card,110.55,,Debit Card purchase MCDONALD'S F20533 5814 LAS CRUCES NM
+,6/13/2023,,Debit,-9.72,,59846155,Walmart,Shopping,Debit Card,121.75,,POS Card purchase WAL-MART #0806 5411 571 WALTON BLVD LAS CRUCES NM
+,6/13/2023,,Credit,100.49,,59845683,Uber,Travel & Commute,,131.47,,POS Deposit UBER UBER 182 6051 SAN FRANCISCO CA
+,6/13/2023,,Debit,-200,,59820899,Online banking Withdrawal Transfer to LXX00 - Credit Card,Credit Card Payments,Transfer,30.98,,Online banking Withdrawal Transfer to L0100 - Credit Card Payment
+,6/13/2023,,Debit,-12,,59820839,Whataburger,Restaurants & Dining,Debit Card,230.98,,Debit Card purchase WHATABURGER 436 Q26 5814 EL PASO TX
+,6/13/2023,,Debit,-9.2,,59820838,Starbucks,Restaurants & Dining,Debit Card,242.98,,Debit Card purchase STARBUCKS STORE 17330 5814 EL PASO TX
+,6/13/2023,,Credit,250,,59820841,ACH Deposit COMPANY: VENMO ENTRY: CASHOUT ISAIAH MALCOM,Transfers,ACH,252.18,,ACH Deposit COMPANY: VENMO ENTRY: CASHOUT ISAIAH MALCOM
+,6/13/2023,,Debit,-42.92,,59820840,Speedway,Gasoline/Fuel,Debit Card,2.18,,Debit Card purchase SPEEDWAY 09844 7900 ARTCR 5542 EL PASO TX
+,6/13/2023,,Credit,0.09,,59820837,Deposit Transfer from SXX00 - Overdraft Transfer,Transfers,Transfer,45.1,,Deposit Transfer from S0000 - Overdraft Transfer
+,6/13/2023,,Debit,-80,,59800782,Online banking Withdrawal Transfer to LXX00 - Credit Card,Credit Card Payments,Transfer,45.01,,Online banking Withdrawal Transfer to L0100 - Credit Card Payment
+,6/13/2023,,Debit,-10.87,,59800778,Amazon,Shopping,Debit Card,125.01,,Debit Card purchase PRIME VIDEO CHANNELS 5818 AMZN.COM/BILL WA
+,6/12/2023,,Credit,95.77,,59777673,Uber,Travel & Commute,,135.88,,POS Deposit UBER UBER 182 6051 SAN FRANCISCO CA
+,6/11/2023,,Debit,-12.67,,59720848,Panda Express,Restaurants & Dining,Debit Card,40.11,,Debit Card purchase PANDA EXPRESS #2342 5814 EL PASO TX
+,6/11/2023,,Debit,-1.5,,59720853,Brown Bag Deli,Restaurants & Dining,Debit Card,52.78,,Debit Card purchase BROWN BAG DELI 5812 ALAMOGORDO NM
+,6/11/2023,,Debit,-7.11,,59720852,Brown Bag Deli,Restaurants & Dining,Debit Card,54.28,,Debit Card purchase BROWN BAG DELI 5812 ALAMOGORDO NM
+,6/10/2023,,Debit,-44.72,,59720847,Shell,Gasoline/Fuel,Debit Card,61.39,,POS Card purchase SHELL SERVICE STATION 5542 ALAMOGORDO NM
+,6/10/2023,,Debit,-3.25,,59720851,Aggie Car Wash,Automotive Expenses,Debit Card,106.11,,Debit Card purchase AGGIE CARWASH 7542 LA	S CRUCES NM
+,6/10/2023,,Debit,-18.14,,59720850,TST* ANGRY OWL 5812 EL PASO TX,Restaurants & Dining,Debit Card,109.36,,Debit Card purchase TST* ANGRY OWL 5812 EL PASO TX
+,6/10/2023,,Debit,-10.66,,59720846,YouTube Music,Entertainment,Debit Card,127.5,,Debit Card purchase GOOGLE *YOUTUBE MUSIC 7829 G.CO/HELPPAY# CA
+,6/10/2023,,Debit,-9.22,,59720849,Square,Online Services,Debit Card,138.16,,Debit Card purchase SQ *HABIT@T BOBA TEA 5499 CANUTILLO TX
+,6/10/2023,,Debit,-4.87,,59662798,Burritos Victoria,Restaurants & Dining,Debit Card,147.38,,Debit Card purchase BURRITOS VICTORIA 5812 LAS CRUCES NM
+,6/9/2023,,Credit,147.38,,59639089,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY,Transfers,,152.25,,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY
+,6/9/2023,,Debit,-5.25,,59639088,Aggie Car Wash,Automotive Expenses,Debit Card,4.87,,Debit Card purchase AGGIE CARWASH 7542 LAS CRUCES NM
+,6/9/2023,,Credit,0.79,,59639087,Deposit Transfer from SXX00 - Overdraft Transfer,Transfers,Transfer,10.12,,Deposit Transfer from S0000 - Overdraft Transfer
+,6/9/2023,,Debit,-39.99,,59627026,Payment to Comcast,Cable & Satellite,,9.33,,Bill payment Withdrawal COMCAST CABLE COMM 4899 800-COMCAST CO
+,6/9/2023,,Debit,-2.6,,59627025,CROSSROADS PRINTING 2741 EL PASO TX,Printing,Debit Card,49.32,,Debit Card purchase CROSSROADS PRINTING 2741 EL PASO TX
+,6/8/2023,,Debit,-11.14,,59627024,Wendy's,Restaurants & Dining,Debit Card,51.92,,POS Card purchase WENDY'S 3728 5814 7453 N MESA ST EL PASO TX
+,6/8/2023,,Debit,-8.44,,59588268,Starbucks,Restaurants & Dining,Debit Card,63.06,,Debit Card purchase STARBUCKS STORE 02774 5814 LAS CRUCES NM
+,6/7/2023,,Debit,-32.1,,59554289,Spotted Dog Brewery,Restaurants & Dining,Debit Card,71.5,,Debit Card purchase SPOTTED DOG BREWERY 5812 LAS CRUCES NM
+,6/7/2023,,Debit,-1,,59525527,ARCADE GAME 5814 EDMOND OK,Entertainment,Debit Card,103.6,,Debit Card purchase ARCADE GAME 5814 EDMOND OK
+,6/7/2023,,Debit,-1,,59525526,ARCADE GAME 5814 EDMOND OK,Entertainment,Debit Card,104.6,,Debit Card purchase ARCADE GAME 5814 EDMOND OK
+,6/6/2023,,Credit,100,,59494717,Deposit,Deposits,Deposit,105.6,,Deposit
+,6/6/2023,,Debit,-13,,59465345,Chevron,Gasoline/Fuel,Debit Card,5.6,,Debit Card purchase CHEVRON 0204989 5542 LAS CRUCES NM
+,6/5/2023,,Debit,-16.01,,59422388,Raising Cane's,Restaurants & Dining,Debit Card,18.6,,Debit Card purchase RAISING CANES 0340 5814 LAS CRUCES NM
+,6/4/2023,,Credit,24.3,,59354213,Uber,Travel & Commute,,34.61,,POS Deposit UBER UBER 182 6051 SAN FRANCISCO CA
+,6/4/2023,,Debit,-10.61,,59347365,McDonald's,Restaurants & Dining,Debit Card,10.31,,Debit Card purchase MCDONALD'S F20533 5814 LAS CRUCES NM
+,6/2/2023,,Debit,-25.82,,59308561,Planet Fitness,Personal Care & Fitness,,20.92,,Bill payment Withdrawal ABC*PLANET FITNESS 7997 575-5227867 NM
+,6/2/2023,,Debit,-7.42,,59308560,McDonald's,Restaurants & Dining,Debit Card,46.74,,POS Card purchase MCDONALD'S F20533 5814 1751 E UNIVERSITY AVE LAS CRUCES NM
+,6/2/2023,,Debit,-16.72,,59261722,Raising Cane's,Restaurants & Dining,Debit Card,54.16,,Debit Card purchase RAISING CANES 0340 5814 LAS CRUCES NM
+,6/1/2023,,Debit,-32.49,,59261721,Salud! De Mesilla,Restaurants & Dining,Debit Card,70.88,,Debit Card purchase TST* SALUD DE MESILLA 5812 LAS CRUCES NM
+,5/31/2023,,Debit,-30.17,,59111013,Circle K,Groceries,Debit Card,103.37,,POS Card purchase CIRCLE K # 41289 5542 LAS CRUCES NM
+,5/30/2023,,Debit,-4.48,,59101297,Shortys,Restaurants & Dining,Debit Card,133.54,,Debit Card purchase SHORTYS IN MESILLA 5541 LAS CRUCES NM
+,5/30/2023,,Debit,-11.67,,59101296,Wendy's,Restaurants & Dining,Debit Card,138.02,,POS Card purchase WENDY'S 8028 5814 565 WALTON BLVD LAS CRUCES NM
+,5/30/2023,,Credit,98.25,,59021338,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY,Transfers,,149.69,,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY
+,5/30/2023,,Debit,-10.6,,59018148,Starbucks,Restaurants & Dining,Debit Card,51.44,,Debit Card purchase STARBUCKS STORE 02774 5814 LAS CRUCES NM
+,5/30/2023,,Debit,-19.47,,59018150,MCW#x386-LUJAN 7542 LAS CRUCES NM,Restaurants & Dining,Debit Card,62.04,,Debit Card purchase MCW#0386-LUJAN 7542 LAS CRUCES NM
+,5/30/2023,,Debit,-15.23,,59018149,Circle K,Groceries,Debit Card,81.51,,Debit Card purchase CIRCLE K # 09681 5542 LAS CRUCES NM
+,5/29/2023,,Debit,-13.08,,58976327,Whataburger,Restaurants & Dining,Debit Card,96.74,,Debit Card purchase WHATABURGER 421 Q26 5814 MESA AZ
+,5/29/2023,,Debit,-6.44,,58976326,Starbucks,Restaurants & Dining,Debit Card,109.82,,Debit Card purchase STARBUCKS STORE 23472 5814 MESA AZ
+,5/29/2023,,Debit,-4.09,,58976325,Chevron,Gasoline/Fuel,Debit Card,116.26,,Debit Card purchase CHEVRON 0352231 5541 APACHE JUNCTI AZ
+,5/29/2023,,Debit,-41.03,,58976324,Chevron,Gasoline/Fuel,Debit Card,120.35,,Debit Card purchase CHEVRON 0352231 5542 APACHE JUNCTI AZ
+,5/28/2023,,Debit,-23.64,,58976323,IHOP,Restaurants & Dining,Debit Card,161.38,,Debit Card purchase IHOP 1508 5812 PHOENIX AZ
+,5/27/2023,,Debit,-4.69,,58927898,BUTTERFIELD STATION TRAVE 5499 DEMING NM,Gasoline/Fuel,Debit Card,185.02,,Debit Card purchase BUTTERFIELD STATION TRAVE 5499 DEMING NM
+,5/27/2023,,Debit,-17.78,,58927897,Whataburger,Restaurants & Dining,Debit Card,189.71,,Debit Card purchase WHATABURGER 785 5814 LAS CRUCES NM
+,5/27/2023,,Debit,-7.13,,58927896,Starbucks,Restaurants & Dining,Debit Card,207.49,,Debit Card purchase STARBUCKS STORE 53805 5814 TEMPE AZ
+,5/27/2023,,Debit,-96.19,,58880701,Jiffy Lube,Automotive Expenses,Debit Card,214.62,,Debit Card purchase JIFFY LUBE #2944 7538 LAS CRUCES NM
+,5/27/2023,,Debit,-5,,58880700,Walgreens,Healthcare & Pharmacy,Debit Card,310.81,,POS Card purchase WALGREENS STORE 204 E BEL 5912 PHOENIX AZ
+,5/26/2023,,Debit,-31.68,,58872484,Marathon Petroleum,Gasoline/Fuel,Debit Card,315.81,,POS Card purchase MARATHON P 5542 3890 GAGE STATION US DEMING NM
+,5/26/2023,,Debit,-48.8,,58872483,Supercuts,Personal Care & Fitness,Debit Card,347.49,,Debit Card purchase SUPERCUTS 7298 LAS CRUCES NM
+,5/26/2023,,Credit,343.88,,58843949,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY,Transfers,,396.29,,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY
+,5/26/2023,,Credit,49.13,,58830880,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY,Transfers,,52.41,,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY
+,5/22/2023,,Debit,-12.32,,58661753,Whataburger,Restaurants & Dining,Debit Card,3.28,,Debit Card purchase WHATABURGER 465 5814 LAS CRUCES NM
+,5/22/2023,,Debit,-16.31,,58661752,Amazon,Shopping,,15.6,,Bill payment Withdrawal AMAZON PRIME*S773B8SU3 5968 AMZN.COM/BILL WA
+,5/21/2023,,Debit,-4.1,,58591471,Corner Bakery Cafe,Restaurants & Dining,Debit Card,31.91,,Debit Card purchase CORNER BAKERY CAFE 1565 5812 LAS CRUCES NM
+,5/18/2023,,Debit,-11.99,,58550040,HOSTINGER.COM 5734 LARNAKA CY,Online Services,Debit Card,36.01,,Debit Card purchase HOSTINGER.COM 5734 LARNAKA CY
+,5/18/2023,,Credit,48,,58465973,Online banking Deposit Transfer from S0000,Transfers,Transfer,48,,Online banking Deposit Transfer from S0000
+,5/18/2023,,Credit,51.12,,58465929,Deposit Transfer from SXX00 - Overdraft Transfer,Transfers,Transfer,21.63,,Deposit Transfer from S0000 - Overdraft Transfer
+,5/14/2023,,Debit,-15.11,,58391903,Speedway,Gasoline/Fuel,Debit Card,0.51,,POS Card purchase SPEEDWAY 5542 1685 E UNIVERSITY AVE LAS CRUCES NM
+,5/14/2023,,Debit,-12.53,,58222514,Blake's Lotaburger,Restaurants & Dining,Debit Card,15.62,,Debit Card purchase BLAKE S LOTABURGER - 028 5814 LAS CRUCES NM
+,5/13/2023,,Debit,-5.18,,58161789,Corner Bakery Cafe,Restaurants & Dining,Debit Card,28.15,,Debit Card purchase CORNER BAKERY CAFE 1565 5812 LAS CRUCES NM
+,5/13/2023,,Debit,-10.87,,58161790,PRIME VIDEO*G61ZG5TI3 XX-3080 WA,Entertainment,Debit Card,33.33,,Debit Card purchase PRIME VIDEO*G61ZG5TI3 5818 888-802-3080 WA
+,5/12/2023,,Debit,-8.44,,58131789,Starbucks,Restaurants & Dining,Debit Card,44.2,,Debit Card purchase STARBUCKS STORE 10747 5814 LAS CRUCES NM
+,5/12/2023,,Debit,-3.77,,58100507,Corner Bakery Cafe,Restaurants & Dining,Debit Card,52.64,,Debit Card purchase CORNER BAKERY CAFE 1565 5812 LAS CRUCES NM
+,5/11/2023,,Debit,-8.75,,58078316,Jack in the Box,Restaurants & Dining,Debit Card,56.41,,Debit Card purchase JACK IN THE BOX 1258 5814 LAS CRUCES NM
+,5/11/2023,,Debit,-36.03,,58062941,Lowe's,Home Supplies,Debit Card,65.16,,POS Card purchase LOWE'S #1158 5200 LAS CRUCES NM
+,5/11/2023,,Debit,-29.71,,58062940,The Home Depot,Home Supplies,Debit Card,101.19,,POS Card purchase NST THE HOME DEPOT 000165 5200 225 TELSHORE BLVD LAS CRUCES NM
+,5/10/2023,,Debit,-17.4,,58048150,Whataburger,Restaurants & Dining,Debit Card,130.9,,Debit Card purchase WHATABURGER 785 5814 LAS CRUCES NM
+,5/10/2023,,Debit,-10.66,,58048149,YouTube Music,Entertainment,Debit Card,148.3,,Debit Card purchase GOOGLE *YOUTUBE MUSIC 7829 G.CO/HELPPAY# CA
+,5/9/2023,,Debit,-39.99,,57984210,Payment to Comcast,Cable & Satellite,,158.96,,Bill payment Withdrawal COMCAST CABLE COMM 4899 800-COMCAST CO
+,5/7/2023,,Credit,196.5,,57943456,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY,Transfers,,198.95,,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY
+,4/30/2023,,Debit,-10.38,,57449343,Starbucks,Restaurants & Dining,Debit Card,2.45,,Debit Card purchase STARBUCKS STORE 11645 5814 LAS CRUCES NM
+,4/28/2023,,Debit,-16.01,,57386381,Raising Cane's,Restaurants & Dining,Debit Card,12.83,,Debit Card purchase RAISING CANES 0340 5814 LAS CRUCES NM
+,4/26/2023,,Debit,-16.01,,57258188,Raising Cane's,Restaurants & Dining,Debit Card,28.84,,Debit Card purchase RAISING CANES 0340 5814 LAS CRUCES NM
+,4/25/2023,,Debit,-60,,57198405,Online banking Withdrawal Transfer to LXX00 - Credit Card,Credit Card Payments,Transfer,44.85,,Online banking Withdrawal Transfer to L0100 - Credit Card Payment
+,4/25/2023,,Debit,-12.86,,57198351,Whataburger,Restaurants & Dining,Debit Card,104.85,,Debit Card purchase WHATABURGER 465 5814 LAS CRUCES NM
+,4/25/2023,,Debit,-32.01,,57198350,GOOGLE *PLAY CONSOLE 5818 G.CO/HELPPAY# CA,Online Services,Debit Card,117.71,,Debit Card purchase GOOGLE *PLAY CONSOLE 5818 G.CO/HELPPAY# CA
+,4/24/2023,,Credit,147.38,,57111039,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY,Transfers,,149.72,,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY
+,4/22/2023,,Debit,-9.87,,57081363,Speedway,Gasoline/Fuel,Debit Card,2.34,,POS Card purchase SPEEDWAY 5541 1685 E UNIVERSITY AVE LAS CRUCES NM
+,4/22/2023,,Debit,-8.22,,57041840,Starbucks,Restaurants & Dining,Debit Card,12.21,,Debit Card purchase STARBUCKS STORE 11645 5814 LAS CRUCES NM
+,4/21/2023,,Debit,-19.47,,57041841,MCW#x386-LUJAN 7542 LAS CRUCES NM,Restaurants & Dining,Debit Card,20.43,,Debit Card purchase MCW#0386-LUJAN 7542 LAS CRUCES NM
+,4/21/2023,,Debit,-11.97,,57012335,Sprouts Farmers Market,Groceries,Debit Card,39.9,,Debit Card purchase SPROUTS FARMERS MAR 5411 LAS CRUCES NM
+,4/21/2023,,Debit,-32.45,,57012336,Udemy,Education,Debit Card,51.87,,Debit Card purchase UDEMY: ONLINE COURSES 8299 HTTPSWWW.UDEM CA
+,4/21/2023,,Debit,-24.1,,56988999,Starbucks,Restaurants & Dining,Debit Card,84.32,,Debit Card purchase STARBUCKS STORE 10747 5814 LAS CRUCES NM
+,4/21/2023,,Debit,-21.63,,56988998,AutoZone,Automotive Expenses,Debit Card,108.42,,Debit Card purchase AUTOZONE 05677 5533 LAS CRUCES NM
+,4/20/2023,,Debit,-20.72,,56950321,Raising Cane's,Restaurants & Dining,Debit Card,130.05,,Debit Card purchase RAISING CANES 0340 5814 LAS CRUCES NM
+,4/18/2023,,Debit,-16.72,,56839832,Raising Cane's,Restaurants & Dining,Debit Card,150.77,,Debit Card purchase RAISING CANES 0340 5814 LAS CRUCES NM
+,4/17/2023,,Debit,-16.98,,56839831,HOSTINGER* HOSTINGER.C 7372 KAUNAS LT,Online Services,Debit Card,167.49,,Debit Card purchase HOSTINGER* HOSTINGER.C 7372 KAUNAS LT
+,4/17/2023,,Debit,-1.17,,56839830,HOSTINGER.COM 5734 LARNAKA CY,Online Services,Debit Card,184.47,,Debit Card purchase HOSTINGER.COM 5734 LARNAKA CY
+,4/17/2023,,Debit,-10.82,,56839829,Planet Fitness,Personal Care & Fitness,,185.64,,ACH Withdrawal COMPANY: PLANET FIT ENTRY: CLUB FEES 575-522-7867 ISAIAH MALCOM
+,4/16/2023,,Credit,196.5,,56708511,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY,Transfers,,196.46,,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY
+,4/13/2023,,Debit,-8.69,,56533231,PRIME VIDEO*HJ3DB5A52 XX-3080 WA,Entertainment,Debit Card,-0.04,,Debit Card purchase PRIME VIDEO*HJ3DB5A52 5818 888-802-3080 WA
+,4/13/2023,,Debit,-2.89,,56533230,Circle K,Groceries,Debit Card,8.65,,Debit Card purchase CIRCLE K # 09672 5541 LAS CRUCES NM
+,4/12/2023,,Debit,-17.64,,56533229,Los Mariachis Restaurant,Restaurants & Dining,Debit Card,11.54,,Debit Card purchase LOS MARIACHIS RESTAURANT 5812 LAS CRUCES NM
+,4/12/2023,,Debit,-25.87,,56494646,CCSU FOOD CT 5814 LAS CRUCES NM,Groceries,Debit Card,29.18,,Debit Card purchase CCSU FOOD CT 5814 LAS CRUCES NM
+,4/12/2023,,Debit,-19.99,,56494645,Payment to Comcast,Cable & Satellite,,55.05,,Bill payment Withdrawal COMCAST CABLE COMM 4899 800-COMCAST CO
+,4/11/2023,,Debit,-10.6,,56442688,Panda Express,Restaurants & Dining,Debit Card,75.04,,Debit Card purchase PANDA EXPRESS #2206 5814 LAS CRUCES NM
+,4/10/2023,,Debit,-15.49,,56442689,Netflix,Entertainment,,85.64,,Bill payment Withdrawal NETFLIX COM 4899 LOS GATOS CA
+,4/10/2023,,Credit,100,,56380919,Online banking Deposit Transfer from S0000,Transfers,Transfer,101.13,,Online banking Deposit Transfer from S0000
+,4/10/2023,,Debit,-10.66,,56366457,YouTube Music,Entertainment,Debit Card,1.13,,Debit Card purchase GOOGLE *YOUTUBE MUSIC 7829 G.CO/HELPPAY# CA
+,4/5/2023,,Debit,-16.11,,56263116,AMZN MKTP US*HS7QB5DO0 5942 AMZN.COM/BILL WA,Shopping,Debit Card,11.79,,Debit Card purchase AMZN MKTP US*HS7QB5DO0 5942 AMZN.COM/BILL WA
+,4/4/2023,,Debit,-49.88,,56085360,Amazon,Shopping,Debit Card,27.9,,POS Card purchase AMAZON.COM*HS4FN9TN1 4816 SEATTLE WA
+,4/4/2023,,Debit,-12.01,,56069824,Raising Cane's,Restaurants & Dining,Debit Card,77.78,,Debit Card purchase RAISING CANES 0340 5814 LAS CRUCES NM
+,4/3/2023,,Debit,-16.72,,56007072,Raising Cane's,Restaurants & Dining,Debit Card,89.79,,Debit Card purchase RAISING CANES 0299 5814 EL PASO TX
+,4/3/2023,,Debit,-5.9,,56007069,Starbucks,Restaurants & Dining,Debit Card,106.51,,Debit Card purchase STARBUCKS STORE 61620 5814 EL PASO TX
+,4/2/2023,,Debit,-8.19,,56007068,Walmart,Shopping,Debit Card,112.41,,POS Card purchase WAL-MART SUPER CENTER 5411 2201 WAL-SAMS EL PASO TX
+,4/2/2023,,Debit,-35.38,,56007071,Speedway,Gasoline/Fuel,Debit Card,120.6,,POS Card purchase SPEEDWAY 5542 7301 NORTH LOOP EL PASO TX
+,4/2/2023,,Credit,147.38,,56007070,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY,Transfers,,155.98,,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY
+,4/1/2023,,Debit,-10.38,,55901173,Starbucks,Restaurants & Dining,Debit Card,8.6,,Debit Card purchase STARBUCKS STORE 11645 5814 LAS CRUCES NM
+,4/1/2023,,Debit,-17.18,,55901172,Whataburger,Restaurants & Dining,Debit Card,18.98,,Debit Card purchase WHATABURGER 465 5814 LAS CRUCES NM
+,3/30/2023,,Debit,-16.72,,55772659,Raising Cane's,Restaurants & Dining,Debit Card,36.16,,Debit Card purchase RAISING CANE'S #340 5814 LAS CRUCES NM
+,3/29/2023,,Debit,-50,,55707280,Online banking Withdrawal Transfer to LXX00 - Credit Card,Credit Card Payments,Transfer,52.88,,Online banking Withdrawal Transfer to L0100 - Credit Card Payment
+,3/28/2023,,Debit,-4.79,,55647334,Starbucks,Restaurants & Dining,Debit Card,102.88,,Debit Card purchase STARBUCKS STORE 11645 5814 LAS CRUCES NM
+,3/27/2023,,Debit,-18.05,,55647335,Wendy's,Restaurants & Dining,Debit Card,107.67,,POS Card purchase WENDY'S 8028 5814 565 WALTON BLVD LAS CRUCES NM
+,3/27/2023,,Debit,-12.65,,55582855,Whataburger,Restaurants & Dining,Debit Card,125.72,,Debit Card purchase WHATABURGER 785 5814 LAS CRUCES NM
+,3/26/2023,,Debit,-14.6,,55547311,Blake's Lotaburger,Restaurants & Dining,Debit Card,138.37,,Debit Card purchase BLAKE S LOTABURGER - 028 5814 LAS CRUCES NM
+,3/26/2023,,Debit,-28.53,,55547310,Dave & Buster's,Restaurants & Dining,Debit Card,152.97,,Debit Card purchase DAVE & BUSTER'S #92 5812 EL PASO TX
+,3/25/2023,,Debit,-31.23,,55547308,Supercuts,Personal Care & Fitness,Debit Card,181.5,,Debit Card purchase SUPERCUTS 7298 LAS CRUCES NM
+,3/25/2023,,Credit,196.5,,55547309,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY,Transfers,,212.73,,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY
+,3/22/2023,,Debit,-16.31,,55365434,Amazon,Shopping,,16.23,,Bill payment Withdrawal AMAZON PRIME*H73G424E1 5968 AMZN.COM/BILL WA
+,3/21/2023,,Credit,23,,55365435,ATM Deposit CU ANYTIME XX 1715 EAST UNIVERSITY LAS CRUCES NM,Deposits,,32.54,,ATM Deposit CU ANYTIME 6011 1715 EAST UNIVERSITY LAS CRUCES NM
+,3/19/2023,,Debit,-7.44,,55312668,Caliche's Frozen Custard,Restaurants & Dining,Debit Card,9.54,,Debit Card purchase CALICHES FROZEN CUSTARD - 5812 LAS CRUCES NM
+,3/19/2023,,Debit,-17.29,,55312667,Corner Bakery Cafe,Restaurants & Dining,Debit Card,16.98,,Debit Card purchase CORNER BAKERY CAFE 1565 5812 LAS CRUCES NM
+,3/18/2023,,Debit,-14.02,,55162438,Lowe's,Home Supplies,Debit Card,34.27,,Debit Card purchase LOWES #01158* 5200 LAS CRUCES NM
+,3/18/2023,,Debit,-63.14,,55162437,Amazon,Shopping,Debit Card,48.29,,POS Card purchase AMAZON.COM*HC7XE2UU0 4816 SEATTLE WA
+,3/17/2023,,Debit,-13.29,,55162436,Wendy's,Restaurants & Dining,Debit Card,111.43,,POS Card purchase WENDY'S 8028 5814 565 WALTON BLVD LAS CRUCES NM
+,3/17/2023,,Debit,-10.82,,55162435,Planet Fitness,Personal Care & Fitness,,124.72,,ACH Withdrawal COMPANY: PLANET FIT ENTRY: CLUB FEES 575-522-7867 ISAIAH MALCOM
+,3/17/2023,,Debit,-30.21,,55162434,Speedway,Gasoline/Fuel,Debit Card,135.54,,Debit Card purchase SPEEDWAY 09128 1685 E. UN 5542 LAS CRUCES NM
+,3/16/2023,,Credit,150,,55042592,Cash Deposit,Deposits,Deposit,165.75,,Cash Deposit
+,3/13/2023,,Debit,-6.58,,54901411,Speedway,Gasoline/Fuel,Debit Card,15.75,,Debit Card purchase SPEEDWAY 09128 1685 E. UN 5541 LAS CRUCES NM
+,3/13/2023,,Debit,-6.52,,54901409,Amazon Digital Services,Entertainment,Debit Card,22.33,,Debit Card purchase AMAZON DIGIT*HG3E22XU1 5818 888-802-3080 WA
+,3/13/2023,,Debit,-10.87,,54901410,PRIME VIDEO*HG6NL7A22 XX-3080 WA,Entertainment,Debit Card,28.85,,Debit Card purchase PRIME VIDEO*HG6NL7A22 5818 888-802-3080 WA
+,3/12/2023,,Debit,-55.77,,54836158,Walmart,Shopping,Debit Card,39.72,,POS Card purchase WM SUPERCENTER #806 5411 WAL-MART SUPER CENTER LAS CRUCES NM
+,3/12/2023,,Debit,-12.5,,54836157,McDonald's,Restaurants & Dining,Debit Card,95.49,,Debit Card purchase MCDONALD'S F20533 5814 LAS CRUCES NM
+,3/12/2023,,Debit,-35,,54836160,PARKING & ID SERVICES XX4835 NM,Travel & Commute,Debit Card,107.99,,Debit Card purchase PARKING & ID SERVICES 8220 5756464835 NM
+,3/11/2023,,Debit,-50.33,,54836159,TST* BOSQUE BREWING COMPA 5813 LAS CRUCES NM,Restaurants & Dining,Debit Card,142.99,,Debit Card purchase TST* BOSQUE BREWING COMPA 5813 LAS CRUCES NM
+,3/11/2023,,Debit,-11.26,,54797291,McDonald's,Restaurants & Dining,Debit Card,193.32,,Debit Card purchase MCDONALD'S F20533 5814 LAS CRUCES NM
+,3/10/2023,,Debit,-10.66,,54775090,YouTube Music,Entertainment,Debit Card,204.58,,Debit Card purchase GOOGLE *YOUTUBE MUSIC 7829 G.CO/HELPPAY# CA
+,3/10/2023,,Debit,-22.56,,54775091,CCSU FOOD CT 5814 LAS CRUCES NM,Groceries,Debit Card,215.24,,Debit Card purchase CCSU FOOD CT 5814 LAS CRUCES NM
+,3/9/2023,,Debit,-2.34,,54680147,CCSU FOOD CT 5814 LAS CRUCES NM,Groceries,Debit Card,237.8,,Debit Card purchase CCSU FOOD CT 5814 LAS CRUCES NM
+,3/8/2023,,Credit,200,,54651533,Cash Deposit,Deposits,Deposit,240.14,,Cash Deposit
+,3/8/2023,,Credit,40.14,,54618984,Online banking Deposit Transfer from S0000,Transfers,Transfer,40.14,,Online banking Deposit Transfer from S0000
+,3/6/2023,,Debit,-15.49,,54556360,Netflix,Entertainment,,0,,Bill payment Withdrawal NETFLIX COM 4899 LOS GATOS CA
+,3/6/2023,,Credit,9.86,,54556356,Deposit Transfer from SXX00 - Overdraft Transfer,Transfers,Transfer,15.49,,Deposit Transfer from S0000 - Overdraft Transfer
+,3/6/2023,,Debit,-19.99,,54556359,Payment to Comcast,Cable & Satellite,,5.63,,Bill payment Withdrawal COMCAST CABLE COMM 4899 800-COMCAST CO
+,3/5/2023,,Debit,-21.19,,54556358,Urban Cafe,Restaurants & Dining,Debit Card,25.62,,Debit Card purchase URBAN CAFE 5812 LAS CRUCES NM
+,3/5/2023,,Debit,-21.47,,54556357,MCW#x386-LUJAN 7542 LAS CRUCES NM,Restaurants & Dining,Debit Card,46.81,,Debit Card purchase MCW#0386-LUJAN 7542 LAS CRUCES NM
+,3/2/2023,,Credit,50,,54323480,Online banking Deposit Transfer from S0000,Transfers,Transfer,68.28,,Online banking Deposit Transfer from S0000
+,2/28/2023,,Debit,-13.63,,54218022,Amazon,Shopping,Debit Card,18.28,,POS Card purchase AMAZON.COM*HD2AD8VK2 5942 SEATTLE WA
+,2/28/2023,,Debit,-37.84,,54218020,Target,Shopping,Debit Card,31.91,,Debit Card purchase TARGET 00007690 5310 LAS CRUCES NM
+,2/27/2023,,Debit,-11.67,,54218021,Wendy's,Restaurants & Dining,Debit Card,69.75,,POS Card purchase WENDY'S 8028 5814 565 WALTON BLVD LAS CRUCES NM
+,2/26/2023,,Debit,-20.2,,54114230,SQ *LOS CORRALES MEXICAN 5814 LAS CRUCES NM,Restaurants & Dining,Debit Card,81.42,,Debit Card purchase SQ *LOS CORRALES MEXICAN 5814 LAS CRUCES NM
+,2/26/2023,,Debit,-26.88,,54114229,Dion's,Restaurants & Dining,Debit Card,101.62,,Debit Card purchase DIONS 12 5814 LAS CRUCES NM
+,2/25/2023,,Debit,-20.19,,54017312,Taco Bell,Restaurants & Dining,Debit Card,128.5,,Debit Card purchase TACO BELL 001600167551 5814 LAS CRUCES NM
+,2/25/2023,,Debit,-16.31,,54017311,Amazon,Shopping,,148.69,,Bill payment Withdrawal AMAZON PRIME*HP03F82X2 5968 AMZN.COM/BILL WA
+,2/25/2023,,Debit,-22.71,,54017313,Amazon,Shopping,Debit Card,165,,POS Card purchase AMAZON.COM*HP4GZ8I31 4816 SEATTLE WA
+,2/25/2023,,Debit,-12.65,,54017310,Whataburger,Restaurants & Dining,Debit Card,187.71,,Debit Card purchase WHATABURGER 581 5814 LAS CRUCES NM
+,2/23/2023,,Credit,196.5,,53923901,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY,Transfers,,200.36,,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY
+,2/17/2023,,Debit,-5.98,,53687908,Sprouts Farmers Market,Groceries,Debit Card,3.86,,Debit Card purchase SPROUTS FARMERS MAR 5411 LAS CRUCES NM
+,2/17/2023,,Debit,-10.82,,53687909,Planet Fitness,Personal Care & Fitness,,9.84,,ACH Withdrawal COMPANY: PLANET FIT ENTRY: CLUB FEES 575-522-7867 ISAIAH MALCOM
+,2/13/2023,,Debit,-164.88,,53443760,Kelly Liquors,Groceries,Debit Card,20.66,,Debit Card purchase KELLY LIQUORS 5921 LAS CRUCES NM
+,2/13/2023,,Debit,-6.52,,53403804,Amazon Digital Services,Entertainment,Debit Card,185.54,,Debit Card purchase AMAZON DIGIT*HE7OB6OX1 5818 888-802-3080 WA
+,2/13/2023,,Debit,-10.87,,53403805,PRIME VIDEO*HE57I1Q90 XX-3080 WA,Entertainment,Debit Card,192.06,,Debit Card purchase PRIME VIDEO*HE57I1Q90 5818 888-802-3080 WA
+,2/13/2023,,Debit,-41.23,,53403803,Target,Shopping,Debit Card,202.93,,Debit Card purchase TARGET 00007690 5310 LAS CRUCES NM
+,2/12/2023,,Debit,-13.34,,53359762,Walmart,Shopping,Debit Card,244.16,,POS Card purchase WM SUPERCENTER #806 5411 WAL-MART SUPER CENTER LAS CRUCES NM
+,2/12/2023,,Debit,-6.66,,53359765,TST* ICEBOX BREWING COMPA 5813 LAS CRUCES NM,Restaurants & Dining,Debit Card,257.5,,Debit Card purchase TST* ICEBOX BREWING COMPA 5813 LAS CRUCES NM
+,2/12/2023,,Debit,-2,,53359764,CSC SERVICEWORK 5814 LAS CRUCES NM,Online Services,Debit Card,264.16,,Debit Card purchase CSC SERVICEWORK 5814 LAS CRUCES NM
+,2/11/2023,,Credit,245.63,,53359763,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY,Transfers,,266.16,,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY
+,2/11/2023,,Debit,-56.42,,53307693,The Home Depot,Home Supplies,Debit Card,20.53,,POS Card purchase THE HOME DEPOT #3505 5200 225 TELSHORE BLVD LAS CRUCES NM
+,2/10/2023,,Debit,-10.66,,53276018,YouTube Music,Entertainment,Debit Card,76.95,,Debit Card purchase GOOGLE *YOUTUBE MUSIC 7829 G.CO/HELPPAY# CA
+,2/8/2023,,Debit,-28.84,,53193784,Circle K,Groceries,Debit Card,87.61,,POS Card purchase CIRCLE K # 41289 5542 LAS CRUCES NM
+,2/6/2023,,Debit,-30,,53078149,Online banking Withdrawal Transfer to LXX00 - Credit Card,Credit Card Payments,Transfer,116.45,,Online banking Withdrawal Transfer to L0100 - Credit Card Payment
+,2/6/2023,,Debit,-15.49,,53078121,Netflix,Entertainment,,146.45,,Bill payment Withdrawal NETFLIX.COM 4899 NETFLIX.COM CA
+,2/6/2023,,Debit,-19.99,,53078123,Payment to Comcast,Cable & Satellite,,161.94,,Bill payment Withdrawal COMCAST CABLE COMM 4899 800-COMCAST CO
+,2/5/2023,,Debit,-11.35,,53078122,Kelly Liquors,Groceries,Debit Card,181.93,,Debit Card purchase KELLY LIQUORS 5921 LAS CRUCES NM
+,2/3/2023,,Debit,-3,,52982548,Smarty Plus,Online Services,Debit Card,193.28,,Debit Card purchase SMARTYCASHBACK.COM 7278 310-5934557 CA
+,2/2/2023,,Debit,-37.87,,52982547,AKTIVLEARNINGPLATFORM 8299 HTTPSAKTIV.CO NY,Clothing,Debit Card,196.28,,Debit Card purchase AKTIVLEARNINGPLATFORM 8299 HTTPSAKTIV.CO NY
+,2/2/2023,,Credit,150.12,,52871025,Online banking Deposit Transfer from S0000,Deposits,Transfer,234.15,,Online banking Deposit Transfer from S0000
+,2/1/2023,,Debit,-10.81,,52826525,Whataburger,Restaurants & Dining,Debit Card,92.56,,Debit Card purchase WHATABURGER 465 5814 LAS CRUCES NM
+,1/31/2023,,Debit,-83.55,,52745965,Nm Motor Vehicles,Automotive Expenses,Debit Card,103.37,,Debit Card purchase PMT*NM MOTOR VEHICLES 9399 877-818-4323 NM
+,1/30/2023,,Debit,-42.81,,52715172,Walmart,Shopping,Debit Card,186.92,,POS Card purchase WAL-MART SUPER CENTER 5411 0806 WAL-SAMS LAS CRUCES NM
+,1/30/2023,,Credit,50,,52672464,Online banking Deposit Transfer from S0000,Deposits,Transfer,229.73,,Online banking Deposit Transfer from S0000
+,1/30/2023,,Debit,-15.12,,52672450,Marshalls,Shopping,Debit Card,179.73,,POS Card purchase MARSHALLS #802 5310 3050 E LOHMAN AVE STE D LAS CRUCES NM
+,1/30/2023,,Debit,-2.64,,52672449,Walmart,Shopping,Debit Card,194.85,,POS Card purchase WAL-MART #0806 5411 571 WALTON BLVD LAS CRUCES NM
+,1/30/2023,,Debit,-16.13,,52672448,Walmart,Shopping,Debit Card,197.49,,POS Card purchase WAL-MART SUPER CENTER 5411 0806 WAL-SAMS LAS CRUCES NM
+,1/30/2023,,Credit,75,,52663268,ATM Deposit CU ANYTIME XX 1715 EAST UNIVERSITY LAS CRUCES NM,Deposits,,213.62,,ATM Deposit CU ANYTIME 6011 1715 EAST UNIVERSITY LAS CRUCES NM
+,1/30/2023,,Debit,-6.19,,52651619,Lowe's,Home Supplies,Debit Card,138.62,,Debit Card purchase LOWE'S #58 5411 LAS CRUCES NM
+,1/29/2023,,Debit,-42.43,,52651618,Sprouts Farmers Market,Groceries,Debit Card,144.81,,Debit Card purchase SPROUTS FARMERS MAR 5411 LAS CRUCES NM
+,1/29/2023,,Debit,-21.93,,52611965,Starbucks,Restaurants & Dining,Debit Card,187.24,,Debit Card purchase STARBUCKS STORE 11645 5814 LAS CRUCES NM
+,1/29/2023,,Debit,-30.21,,52611967,Speedway,Gasoline/Fuel,Debit Card,209.17,,Debit Card purchase SPEEDWAY 09128 1685 E. UN 5542 LAS CRUCES NM
+,1/28/2023,,Debit,-245.54,,52611966,AMZN MKTP US*849YU4D93 5942 AMZN.COM/BILL WA,Shopping,Debit Card,239.38,,Debit Card purchase AMZN MKTP US*849YU4D93 5942 AMZN.COM/BILL WA
+,1/28/2023,,Debit,-90.91,,52578808,Walmart,Shopping,Debit Card,484.92,,POS Card purchase WAL-MART SUPER CENTER 5411 0806 WAL-SAMS LAS CRUCES NM
+,1/28/2023,,Debit,-40,,52575588,ATM Withdrawal CU ANYTIME XX 1715 EAST UNIVERSITY LAS CRUCES NM,ATM/Cash Withdrawals,Debit Card,575.83,,ATM Withdrawal CU ANYTIME 6011 1715 EAST UNIVERSITY LAS CRUCES NM
+,1/27/2023,,Debit,-19.8,,52575587,CCSU FOOD CT 5814 LAS CRUCES NM,Groceries,Debit Card,615.83,,Debit Card purchase CCSU FOOD CT 5814 LAS CRUCES NM
+,1/24/2023,,Debit,-13.42,,52356661,Panda Express,Restaurants & Dining,Debit Card,635.63,,Debit Card purchase PANDA EXPRESS #2206 5814 LAS CRUCES NM
+,1/23/2023,,Debit,-15.25,,52356662,Nmsu Bookstore,Hobbies,Debit Card,649.05,,Debit Card purchase NMSU BOOKSTORE #2218 5942 800-3815151 IL
+,1/22/2023,,Debit,-50.74,,52291254,Nmsu Bookstore,Hobbies,Debit Card,664.3,,Debit Card purchase NMSU BOOKSTORE #2218 5942 800-3815151 IL
+,1/22/2023,,Debit,-16.72,,52291253,Raising Cane's,Restaurants & Dining,Debit Card,715.04,,Debit Card purchase RAISING CANE'S #340 5814 LAS CRUCES NM
+,1/22/2023,,Debit,-16.31,,52241755,Amazon,Shopping,,731.76,,Bill payment Withdrawal AMAZON PRIME*XK5FU7J23 5968 AMZN.COM/BILL WA
+,1/21/2023,,Debit,-23.62,,52225851,TST* MATTEOS MEXICAN FOO 5812 LAS CRUCES NM,Restaurants & Dining,Debit Card,748.07,,Debit Card purchase TST* MATTEOS MEXICAN FOO 5812 LAS CRUCES NM
+,1/20/2023,,Debit,-26.23,,52171062,Supercuts,Personal Care & Fitness,Debit Card,771.69,,Debit Card purchase SUPERCUTS WALTON 7230 LAS CRUCES NM
+,1/20/2023,,Debit,-54.08,,52171065,GNC,Healthcare & Pharmacy,Debit Card,797.92,,Debit Card purchase GNC 5499 LAS CRUCES NM
+,1/20/2023,,Debit,-65.02,,52171061,JCPenney,Clothing,Debit Card,852,,Debit Card purchase JCPENNEY 2093 5311 LAS CRUCES NM
+,1/20/2023,,Debit,-10.04,,52171064,Alamo Drafthouse,Entertainment,Debit Card,917.02,,Debit Card purchase ALAMO DRAFTHOUSE MONTECIL 7832 EL PASO TX
+,1/20/2023,,Debit,-21.47,,52171063,MCW#x386-LUJAN 7542 LAS CRUCES NM,Other Expenses,Debit Card,927.06,,Debit Card purchase MCW#0386-LUJAN 7542 LAS CRUCES NM
+,1/19/2023,,Credit,158,,52135672,Online banking Deposit Transfer from S0000,Deposits,Transfer,948.53,,Online banking Deposit Transfer from S0000
+,1/19/2023,,Debit,-19.29,,52134522,Taqueria El Cometa,Restaurants & Dining,Debit Card,790.53,,Debit Card purchase TAQUERIA EL COMETA 5812 EL PASO TX
+,1/19/2023,,Debit,-12.65,,52125523,Whataburger,Restaurants & Dining,Debit Card,809.82,,Debit Card purchase WHATABURGER 785 5814 LAS CRUCES NM
+,1/18/2023,,Credit,100,,52090760,Online banking Deposit Transfer from S0000,Deposits,Transfer,822.47,,Online banking Deposit Transfer from S0000
+,1/17/2023,,Debit,-10.82,,52023770,Planet Fitness,Personal Care & Fitness,,722.47,,ACH Withdrawal COMPANY: PLANET FIT ENTRY: CLUB FEES 575-522-7867 ISAIAH MALCOM
+,1/16/2023,,Credit,634,,52023769,ATM Deposit CU ANYTIME XX 1715 EAST UNIVERSITY LAS CRUCES NM,Deposits,,733.29,,ATM Deposit CU ANYTIME 6011 1715 EAST UNIVERSITY LAS CRUCES NM
+,1/16/2023,,Debit,-4.04,,51945903,Steamgames,Entertainment,Debit Card,99.29,,Debit Card purchase STEAMGAMES.COM 4259522985 5816 425-8899642 WA
+,1/15/2023,,Debit,-12.21,,51945902,Wendy's,Restaurants & Dining,Debit Card,103.33,,POS Card purchase WENDY'S 8028 5814 565 WALTON BLVD LAS CRUCES NM
+,1/13/2023,,Debit,-46.66,,51945901,Sam's Club,Shopping,Debit Card,115.54,,POS Card purchase SAMSCLUB #4784 5411 2711 NORTH TELSHORE BLV LAS CRUCES NM
+,1/13/2023,,Credit,120,,51945900,ATM Deposit CU ANYTIME XX 1715 EAST UNIVERSITY LAS CRUCES NM,Deposits,,162.2,,ATM Deposit CU ANYTIME 6011 1715 EAST UNIVERSITY LAS CRUCES NM
+,1/13/2023,,Debit,-150,,51844947,Online banking Withdrawal Transfer to S0000,Transfers,Transfer,42.2,,Online banking Withdrawal Transfer to S0000
+,1/13/2023,,Debit,-126.96,,51844276,Amazon,Shopping,Debit Card,192.2,,Debit Card purchase AMZN RENTAL PURCHASE 5942 AMZN.COM/BILL WA
+,1/13/2023,,Credit,200,,51844274,Deposit Transfer from SXX00 - Overdraft Transfer,Transfers,Transfer,319.16,,Deposit Transfer from S0000 - Overdraft Transfer
+,1/13/2023,,Debit,-10.87,,51844275,Amazon Digital Services,Entertainment,Debit Card,119.16,,Debit Card purchase AMZN DIGITAL*JQ94J7U93 88 5818 888-802-3080 WA
+,1/13/2023,,Debit,-157.48,,51844273,Walmart,Shopping,Debit Card,130.03,,Debit Card purchase WAL-MART #0806 5411 LAS CRUCES NM
+,1/13/2023,,Debit,-6.52,,51844272,Amazon Digital Services,Entertainment,Debit Card,287.51,,Debit Card purchase AMAZON DIGIT*QI7R967L3 5818 888-802-3080 WA
+,1/12/2023,,Debit,-25.09,,51800947,Phillips 66,Gasoline/Fuel,Debit Card,294.03,,Debit Card purchase PHILLIPS 66 - KEWA GAS 1 5542 SANTO DOMINGO NM
+,1/12/2023,,Debit,-10.2,,51800946,Panda Express,Restaurants & Dining,Debit Card,319.12,,Debit Card purchase PANDA EXPRESS #1479 5814 LOS LUNAS NM
+,1/11/2023,,Debit,-4.22,,51800945,Walmart,Shopping,Debit Card,329.32,,POS Card purchase WAL-MART SUPER CENTER 5411 3596 WAL-SAMS LOS LUNAS NM
+,1/10/2023,,Debit,-21.41,,51701314,El Parasol,Restaurants & Dining,Debit Card,333.54,,Debit Card purchase EL PARASOL 5812 ESPANOLA NM
+,1/10/2023,,Debit,-9.12,,51701312,McDonald's,Restaurants & Dining,Debit Card,354.95,,POS Card purchase MCDONALD'S F36782 5814 1401 N RIVERSIDE DR ESPANOLA NM
+,1/10/2023,,Debit,-26.09,,51701311,AutoZone,Automotive Expenses,Debit Card,364.07,,POS Card purchase AUTOZONE 2520 5533 1331 N RIVERSIDE D ESPANOLA NM
+,1/10/2023,,Debit,-19.99,,51701313,Payment to Comcast,Cable & Satellite,,390.16,,Bill payment Withdrawal COMCAST CABLE COMM 4899 800-COMCAST CO
+,1/9/2023,,Credit,325,,51652883,ATM Deposit CU ANYTIME XX 1720 N RIVERSIDE DR ESPANOLA NM,Deposits,,410.15,,ATM Deposit CU ANYTIME 6011 1720 N RIVERSIDE DR ESPANOLA NM
+,1/9/2023,,Debit,-5.09,,51652882,Phillips 66,Gasoline/Fuel,Debit Card,85.15,,Debit Card purchase PHILLIPS 66 - MALHI C STO 5541 ESPANOLA NM
+,1/7/2023,,Debit,-26.35,,51593401,Walmart,Shopping,Debit Card,90.24,,POS Card purchase WAL-MART #2656 5411 1610 NO. RIVERSIDE DRIV ESPANOLA NM
+,1/7/2023,,Credit,112.99,,51593402,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY,Transfers,,116.59,,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY
+,1/7/2023,,Debit,-12.54,,51529537,Food King,Groceries,Debit Card,3.6,,Debit Card purchase FOOD KING #93 5411 ESPANOLA NM
+,1/3/2023,,Debit,-38.06,,51311604,Big 5 Sporting Goods,Shopping,Debit Card,16.14,,Debit Card purchase BIG 5 SPORTING GOODS 499 5941 ESPANOLA NM
+,1/3/2023,,Debit,-43.51,,51311603,Big 5 Sporting Goods,Shopping,Debit Card,54.2,,Debit Card purchase BIG 5 SPORTING GOODS 499 5941 ESPANOLA NM
+,1/2/2023,,Debit,-80,,51271662,Online banking Withdrawal Transfer to LXX00 - Credit Card,Credit Card Payments,Transfer,97.71,,Online banking Withdrawal Transfer to L0100 - Credit Card Payment
+,1/2/2023,,Debit,-18,,51254219,Walmart,Shopping,Debit Card,177.71,,POS Card purchase WAL-MART SUPER CENTER 5411 2656 WAL-SAMS ESPANOLA NM
+,1/2/2023,,Credit,210,,51254220,ATM Deposit CU ANYTIME XX 1720 N RIVERSIDE DR ESPANOLA NM,Deposits,,195.71,,ATM Deposit CU ANYTIME 6011 1720 N RIVERSIDE DR ESPANOLA NM
+,12/31/2022,,Debit,-61.51,,51212683,OHKAY TRAVEL CENTER 5542 OHKAY OWINGEH NM,Travel & Commute,Debit Card,-14.29,,Debit Card purchase OHKAY TRAVEL CENTER 5542 OHKAY OWINGEH NM
+,12/29/2022,,Debit,-10.2,,51091150,Chevron,Gasoline/Fuel,Debit Card,47.22,,Debit Card purchase CHEVRON 0208520 5542 HERNANDEZ NM
+,12/29/2022,,Debit,-350,,51071741,Online banking Withdrawal Transfer to LXX00 - Credit Card,Credit Card Payments,Transfer,57.42,,Online banking Withdrawal Transfer to L0100 - Credit Card Payment
+,12/29/2022,,Credit,147.38,,51071660,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY,Transfers,,407.42,,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY
+,12/29/2022,,Debit,-6,,51070628,Dollar General,Shopping,Debit Card,260.04,,POS Card purchase DOLLAR GENERAL # DG 14151 5310 HERNANDEZ NM
+,12/29/2022,,Debit,-61.61,,51070625,Walmart,Shopping,Debit Card,266.04,,POS Card purchase WAL-MART #2656 5411 1610 N RIVERSIDE DR ESPANOLA NM
+,12/28/2022,,Debit,-10.11,,51070627,Lowes Fuel,Automotive Expenses,Debit Card,327.65,,POS Card purchase LOWES FUEL 5542 930 N RIVERSIDE DR US ESPANOLA NM
+,12/28/2022,,Credit,280,,51070626,ATM Deposit CU ANYTIME XX 1720 N RIVERSIDE DR ESPANOLA NM,Deposits,,337.76,,ATM Deposit CU ANYTIME 6011 1720 N RIVERSIDE DR ESPANOLA NM
+,12/24/2022,,Debit,-32.84,,51014680,Walmart,Shopping,Debit Card,57.76,,POS Card purchase WM SUPERCENTER #2656 5411 WAL-MART SUPER CENTER ESPANOLA NM
+,12/24/2022,,Debit,-9.4,,51014679,McDonald's,Restaurants & Dining,Debit Card,90.6,,POS Card purchase MCDONALD'S F36782 5814 1401 N RIVERSIDE DR ESPANOLA NM
+,12/24/2022,,Credit,100,,50847700,ATM Deposit CU ANYTIME XX 1720 N RIVERSIDE DR ESPANOLA NM,Deposits,,100,,ATM Deposit CU ANYTIME 6011 1720 N RIVERSIDE DR ESPANOLA NM
+,12/20/2022,,Debit,-12.35,,50625297,Online banking Withdrawal Transfer to LXX00 - Credit Card,Credit Card Payments,Transfer,0,,Online banking Withdrawal Transfer to L0100 - Credit Card Payment
+,12/20/2022,,Credit,12,,50625221,ATM Deposit CU ANYTIME XX 1907 N RIVERSIDE DR ESPANOLA NM,Deposits,,12.35,,ATM Deposit CU ANYTIME 6011 1907 N RIVERSIDE DR ESPANOLA NM
+,12/19/2022,,Debit,-54,,50600195,Online banking Withdrawal Transfer to LXX00 - Credit Card,Credit Card Payments,Transfer,0.35,,Online banking Withdrawal Transfer to L0100 - Credit Card Payment
+,12/19/2022,,Debit,-20.14,,50600151,Phillips 66,Gasoline/Fuel,Debit Card,54.35,,Debit Card purchase PHILLIPS 66 - SANDIA FUEL 5542 BERNALILLO NM
+,12/19/2022,,Debit,-10.82,,50600150,Planet Fitness,Personal Care & Fitness,,74.49,,ACH Withdrawal COMPANY: PLANET FIT ENTRY: CLUB FEES 575-522-7867 ISAIAH MALCOM
+,12/19/2022,,Debit,-20.85,,50600148,Starbucks,Restaurants & Dining,Debit Card,85.31,,Debit Card purchase STARBUCKS STORE 11645 5814 LAS CRUCES NM
+,12/19/2022,,Debit,-23.56,,50600149,Jimmy John's,Restaurants & Dining,Debit Card,106.16,,Debit Card purchase JIMMY JOHNS - 1912 5814 LAS CRUCES NM
+,12/18/2022,,Debit,-4.62,,50600147,Walmart,Shopping,Debit Card,129.72,,POS Card purchase WAL-MART SUPER CENTER 5411 4601 WAL-SAMS LAS CRUCES NM
+,12/18/2022,,Debit,-5.18,,50526645,Speedway,Gasoline/Fuel,Debit Card,134.34,,Debit Card purchase SPEEDWAY 09128 1685 E. UN 5542 LAS CRUCES NM
+,12/18/2022,,Debit,-6.59,,50526644,Natural Grocers,Groceries,Debit Card,139.52,,Debit Card purchase NATURAL GROCERS LS 5411 LAS CRUCES NM
+,12/18/2022,,Debit,-24.87,,50526643,TST* MATTEOS MEXICAN FOO 5812 LAS CRUCES NM,Restaurants & Dining,Debit Card,146.11,,Debit Card purchase TST* MATTEOS MEXICAN FOO 5812 LAS CRUCES NM
+,12/17/2022,,Debit,-10.8,,50526642,Amazon,Shopping,Debit Card,170.98,,Debit Card purchase AMZN RENTAL EXTENSION 5942 AMZN.COM/BILL WA
+,12/17/2022,,Debit,-23.84,,50526641,Walgreens,Healthcare & Pharmacy,Debit Card,181.78,,POS Card purchase WALGREENS STORE 2700 W PI 5912 LAS CRUCES NM
+,12/17/2022,,Credit,200,,50490207,Cash Deposit,Deposits,Deposit,205.62,,Cash Deposit
+,12/7/2022,,Debit,-6.9,,49952274,Starbucks,Restaurants & Dining,Debit Card,5.62,,Debit Card purchase STARBUCKS STORE 11645 5814 LAS CRUCES NM
+,12/7/2022,,Debit,-19.99,,49952275,Payment to Comcast,Cable & Satellite,,12.52,,Bill payment Withdrawal COMCAST DENVER 4899 800-266-2278 CO
+,12/6/2022,,Debit,-42.19,,49917129,Planet Fitness,Personal Care & Fitness,,32.51,,Bill payment Withdrawal ABC*PLANET FITNESS 7997 575-5227867 NM
+,12/6/2022,,Debit,-100,,49899478,Online banking Withdrawal Transfer to LXX00 - Credit Card,Credit Card Payments,Transfer,74.7,,Online banking Withdrawal Transfer to L0100 - Credit Card Payment
+,12/5/2022,,Credit,196.5,,49876589,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY,Transfers,,174.7,,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY
+,12/1/2022,,Debit,-30,,49669275,Planet Fitness Service Charges/Fees,Service Charges & Fees,Fees,-21.8,,Fee Withdrawal COMPANY: PLANET FIT ENTRY: CLUB FEES 575-522-7867 ISAIAH MALCOM - NSF Fee
+,11/29/2022,,Debit,-10.38,,49424265,Whataburger,Restaurants & Dining,Debit Card,8.2,,Debit Card purchase WHATABURGER 785 5814 LAS CRUCES NM
+,11/28/2022,,Debit,-7.44,,49424264,Starbucks,Restaurants & Dining,Debit Card,18.58,,Debit Card purchase STARBUCKS STORE 06642 5814 EL PASO TX
+,11/28/2022,,Debit,-16.07,,49424267,Cinemark Theatres,Entertainment,Debit Card,26.02,,Debit Card purchase CNK*CINEMARK.COM 236 7832 800-246-3627 TX
+,11/28/2022,,Debit,-30.48,,49424266,Speedway,Gasoline/Fuel,Debit Card,42.09,,Debit Card purchase SPEEDWAY 09128 1685 E. UN 5542 LAS CRUCES NM
+,11/27/2022,,Debit,-6.9,,49342137,Starbucks,Restaurants & Dining,Debit Card,72.57,,Debit Card purchase STARBUCKS STORE 11645 5814 LAS CRUCES NM
+,11/26/2022,,Credit,100,,49284522,ATM Deposit CU ANYTIME XX 1715 EAST UNIVERSITY LAS CRUCES NM,Deposits,,79.47,,ATM Deposit CU ANYTIME 6011 1715 EAST UNIVERSITY LAS CRUCES NM
+,11/17/2022,,Debit,-30,,48930095,Planet Fitness Service Charges/Fees,Service Charges & Fees,Fees,-20.53,,Fee Withdrawal COMPANY: PLANET FIT ENTRY: CLUB FEES 575-522-7867 ISAIAH MALCOM - NSF Fee
+,11/15/2022,,Debit,-90,,48740510,Online banking Withdrawal Transfer to LXX00 - Credit Card,Credit Card Payments,Transfer,9.47,,Online banking Withdrawal Transfer to L0100 - Credit Card Payment
+,11/15/2022,,Debit,-100,,48740433,Online banking Withdrawal Transfer to LXX00 - Credit Card,Credit Card Payments,Transfer,99.47,,Online banking Withdrawal Transfer to L0100 - Credit Card Payment
+,11/13/2022,,Debit,-31.23,,48641803,Supercuts,Personal Care & Fitness,Debit Card,199.47,,Debit Card purchase SUPERCUTS LAS CRUCES II 7230 LAS CRUCES NM
+,11/13/2022,,Credit,200,,48641802,Deposit Transfer from SXX00 - Overdraft Transfer,Transfers,Transfer,230.7,,Deposit Transfer from S0000 - Overdraft Transfer
+,11/13/2022,,Debit,-10.87,,48641804,PRIME VIDEO*HB4O74B61 XX-3080 WA,Entertainment,Debit Card,30.7,,Debit Card purchase PRIME VIDEO*HB4O74B61 5818 888-802-3080 WA
+,11/12/2022,,Debit,-60.43,,48613097,Walmart,Shopping,Debit Card,41.57,,POS Card purchase WAL-MART #0806 5411 571 WALTON BLVD LAS CRUCES NM
+,11/12/2022,,Debit,-200,,48602670,Online banking Withdrawal Transfer to LXX00 - Credit Card,Credit Card Payments,Transfer,102,,Online banking Withdrawal Transfer to L0100 - Credit Card Payment
+,11/12/2022,,Debit,-200,,48602661,Online banking Withdrawal Transfer to S0000,Transfers,Transfer,302,,Online banking Withdrawal Transfer to S0000
+,11/12/2022,,Credit,500,,48598519,Check Deposit,Deposits,Deposit,502,,Check Deposit
+,11/9/2022,,Credit,2,,48598518,ATM Deposit CU ANYTIME XX 1715 EAST UNIVERSITY LAS CRUCES NM,Deposits,,2,,ATM Deposit CU ANYTIME 6011 1715 EAST UNIVERSITY LAS CRUCES NM
+,10/31/2022,,Debit,-10.17,,47964699,Online banking Withdrawal Transfer to LXX00 - Credit Card,Credit Card Payments,Transfer,0,,Online banking Withdrawal Transfer to L0100 - Credit Card Payment
+,10/17/2022,,Debit,-10.82,,47247501,Planet Fitness,Personal Care & Fitness,,10.17,,ACH Withdrawal COMPANY: PLANET FIT ENTRY: CLUB FEES 575-522-7867 ISAIAH MALCOM
+,10/15/2022,,Debit,-5.81,,47247500,Nmsu Bookstore,Hobbies,Debit Card,20.99,,Debit Card purchase NMSU BOOKSTORE #2218 5942 LAS CRUCES NM
+,10/15/2022,,Debit,-13.81,,47247499,Nmsu Bookstore,Hobbies,Debit Card,26.8,,Debit Card purchase NMSU BOOKSTORE #2218 5942 LAS CRUCES NM
+,10/15/2022,,Debit,-39.98,,47152001,Payment to Comcast,Cable & Satellite,,40.61,,Bill payment Withdrawal COMCAST DENVER 4899 800-266-2278 CO
+,10/15/2022,,Debit,-11.67,,47152000,Whataburger,Restaurants & Dining,Debit Card,80.59,,Debit Card purchase WHATABURGER 785 5814 LAS CRUCES NM
+,10/14/2022,,Debit,-3.5,,47099828,NMSUTRANSPORTPRKNGSRVCS XX1839 NM,Travel & Commute,Debit Card,92.26,,Debit Card purchase NMSUTRANSPORTPRKNGSRVCS 8220 5756461839 NM
+,10/14/2022,,Debit,-14,,47099827,Panda Express,Restaurants & Dining,Debit Card,95.76,,Debit Card purchase PANDA EXPRESS #2206 5814 LAS CRUCES NM
+,10/13/2022,,Debit,-700,,47099826,Online banking Withdrawal Transfer to LXX00 - Credit Card,Credit Card Payments,Transfer,109.76,,Online banking Withdrawal Transfer to L0100 - Credit Card Payment
+,10/13/2022,,Credit,800,,47056083,Check Deposit,Deposits,Deposit,809.76,,Check Deposit
+,10/13/2022,,Debit,-6.22,,47056082,Starbucks,Restaurants & Dining,Debit Card,9.76,,Debit Card purchase STARBUCKS STORE 11645 5814 LAS CRUCES NM
+,10/13/2022,,Debit,-2.5,,47035588,NMSUTRANSPORTPRKNGSRVCS XX1839 NM,Travel & Commute,Debit Card,15.98,,Debit Card purchase NMSUTRANSPORTPRKNGSRVCS 8220 5756461839 NM
+,10/13/2022,,Debit,-10.87,,47035587,PRIME VIDEO*HT1IB5451 XX-3080 WA,Entertainment,Debit Card,18.48,,Debit Card purchase PRIME VIDEO*HT1IB5451 5818 888-802-3080 WA
+,10/10/2022,,Debit,-24.75,,46939693,Peter Piper Pizza,Restaurants & Dining,Debit Card,29.35,,Debit Card purchase PETER PIPER PIZZA 45 5812 LAS CRUCES NM
+,10/9/2022,,Debit,-47.26,,46875572,Circle K,Groceries,Debit Card,54.1,,POS Card purchase CIRCLE K # 41289 5542 LAS CRUCES NM
+,10/9/2022,,Debit,-55.74,,46875571,Walmart,Shopping,Debit Card,101.36,,POS Card purchase WAL-MART #0806 5411 571 WALTON BLVD LAS CRUCES NM
+,10/9/2022,,Debit,-16.2,,46875570,Chick-fil-A,Restaurants & Dining,Debit Card,157.1,,Debit Card purchase CHICK-FIL-A #03693 5814 LAS CRUCES NM
+,10/9/2022,,Debit,-1.08,,46866903,Planet Fitness,Personal Care & Fitness,Debit Card,173.3,,Debit Card purchase 7038 PLANET FITNESS 7997 LAS CRUCES NM
+,10/8/2022,,Debit,-24.35,,46866902,Walmart,Shopping,Debit Card,174.38,,POS Card purchase WAL-MART #0806 5411 571 WALTON BLVD LAS CRUCES NM
+,10/8/2022,,Credit,196.5,,46827936,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY,Transfers,,198.73,,Debit Deposit VENMO*MALCOM ISAIAH 4829 NEW YORK CITY NY
+,10/4/2022,,Debit,-27.71,,46654017,Walmart,Shopping,Debit Card,2.23,,POS Card purchase WAL-MART SUPER CENTER 5411 0806 WAL-SAMS LAS CRUCES NM
+,10/4/2022,,Debit,-6.22,,46611317,Starbucks,Restaurants & Dining,Debit Card,29.94,,Debit Card purchase STARBUCKS STORE 11645 5814 LAS CRUCES NM
+,10/1/2022,,Debit,-4.92,,46538141,Starbucks,Restaurants & Dining,Debit Card,36.16,,Debit Card purchase STARBUCKS STORE 11645 5814 LAS CRUCES NM
+,10/1/2022,,Debit,-5,,46538142,Speedway,Gasoline/Fuel,Debit Card,41.08,,Debit Card purchase SPEEDWAY 09128 1685 E. UN 5541 LAS CRUCES NM

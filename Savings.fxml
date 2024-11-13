@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.SavingsController">
+   <children>
+      <Label layoutX="207.0" layoutY="35.0" text="Savings Account">
+         <font>
+            <Font size="50.0" />
+         </font>
+      </Label>
+      <Button layoutX="83.0" layoutY="300.0" mnemonicParsing="false" onAction="#addMoneyToTotal" prefHeight="43.0" prefWidth="247.0" text="Add Money">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Button>
+      <Button layoutX="21.0" layoutY="542.0" mnemonicParsing="false" onAction="#switchToHome" prefHeight="43.0" prefWidth="105.0" text="Home">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Button>
+      <Button layoutX="148.0" layoutY="542.0" mnemonicParsing="false" onAction="#switchToList" prefHeight="43.0" prefWidth="105.0" text="List">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Button>
+      <Button layoutX="407.0" layoutY="542.0" mnemonicParsing="false" onAction="#switchToBills" prefHeight="43.0" prefWidth="110.0" text="Bills">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Button>
+      <Button layoutX="538.0" layoutY="542.0" mnemonicParsing="false" onAction="#switchToSavings" prefHeight="43.0" prefWidth="110.0" text="Savings">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Button>
+      <Button layoutX="668.0" layoutY="543.0" mnemonicParsing="false" onAction="#switchToLoan" prefHeight="43.0" prefWidth="110.0" text="Loan">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Button>
+      <Button layoutX="276.0" layoutY="542.0" mnemonicParsing="false" onAction="#switchToGroup" prefHeight="43.0" prefWidth="110.0" text="Group">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Button>
+      <TableView fx:id="tableView" layoutX="388.0" layoutY="178.0" prefHeight="281.0" prefWidth="362.0">
+        <columns>
+            <TableColumn fx:id="addColumn" prefWidth="75.0" text="Add" />
+          <TableColumn fx:id="removeColumn" prefWidth="74.0" text="Remove" />
+          <TableColumn fx:id="accountTotalColumn" prefWidth="289.0" text="Account Total" />
+        </columns>
+      </TableView>
+        <Button layoutX="83.0" layoutY="357.0" mnemonicParsing="false" onAction="#removeMoneyFromTotal" prefHeight="43.0" prefWidth="247.0" text="Remove Money ">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Button>
+      <TextField fx:id="textField" layoutX="84.0" layoutY="241.0" prefHeight="44.0" prefWidth="247.0" promptText="Input an amount to add/remove">
+         <font>
+            <Font size="16.0" />
+         </font></TextField>
+      <TextField fx:id="totalText" layoutX="277.0" layoutY="108.0" prefHeight="44.0" prefWidth="247.0">
+         <font>
+            <Font size="20.0" />
+         </font></TextField>
+   </children>
+</AnchorPane>

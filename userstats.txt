@@ -1,0 +1,53 @@
+======== REPO stats ========
+User statistics, generated on 2023-11-27 11:10:01.824181
+------
+User: jessclem7        commits:6        pullrequests:5        othermerges:1       
+------
+User: Isaiah Malcom    commits:9        pullrequests:0        othermerges:0       
+   filetype:.fxml      added:542        removed:84
+   filetype:.java      added:1892       removed:388
+   filetype:.csv       added:1117       removed:0
+   filetype:.txt       added:32         removed:0
+   filetype:.css       added:1          removed:1
+------
+User: Jessica Clem     commits:7        pullrequests:0        othermerges:0       
+   filetype:.fxml      added:98         removed:12
+   filetype:.java      added:495        removed:44
+   filetype:.csv       added:7          removed:0
+------
+User: Anthony Gonzales commits:14       pullrequests:6        othermerges:0       
+   filetype:.fxml      added:567        removed:54
+   filetype:.java      added:3777       removed:461
+   filetype:.csv       added:1030       removed:0
+------
+User: Julia Dingee     commits:11       pullrequests:0        othermerges:0       
+   filetype:.fxml      added:112        removed:21
+   filetype:.java      added:495        removed:128
+------
+User: Jonathan Cook    commits:5        pullrequests:0        othermerges:0       
+   filetype:no-ext     added:24         removed:0
+   filetype:.fxml      added:0          removed:0
+   filetype:.java      added:48         removed:17
+   filetype:.txt       added:62         removed:15
+   filetype:.xml       added:51         removed:2
+------
+User: juliadingee      commits:2        pullrequests:2        othermerges:0       
+------
+======== WIKI stats =========
+User statistics, generated on 2023-11-27 11:10:01.853893
+------
+User: jessclem7        commits:13       pullrequests:0        othermerges:0       
+   filetype:.md        added:154        removed:59
+------
+User: Anthony Gonzales commits:23       pullrequests:0        othermerges:0       
+   filetype:.md        added:157        removed:65
+------
+User: juliadingee      commits:1        pullrequests:0        othermerges:0       
+   filetype:.md        added:1          removed:0
+------
+User: zhypen           commits:7        pullrequests:0        othermerges:0       
+   filetype:.md        added:43         removed:9
+------
+User: Isaiah Malcom    commits:18       pullrequests:0        othermerges:0       
+   filetype:.md        added:48         removed:15
+------
